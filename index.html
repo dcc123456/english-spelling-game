@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语六级单词拼写闯关游戏</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 单词拼写闯关</h1>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-label">关卡</span>
+                    <span class="stat-value" id="level">1</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">分数</span>
+                    <span class="stat-value" id="score">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">连击</span>
+                    <span class="stat-value" id="combo">0</span>
+                </div>
+            </div>
+        </header>
+
+        <main id="game-container">
+            <div class="difficulty-selector" id="difficulty-selector">
+                <h2>选择难度</h2>
+                <div class="difficulty-buttons">
+                    <button class="difficulty-btn easy" data-difficulty="easy">
+                        <span class="diff-icon">🌱</span>
+                        <span class="diff-name">简单</span>
+                        <span class="diff-desc">1-2音节单词</span>
+                    </button>
+                    <button class="difficulty-btn normal" data-difficulty="normal">
+                        <span class="diff-icon">🌿</span>
+                        <span class="diff-name">一般</span>
+                        <span class="diff-desc">3音节单词</span>
+                    </button>
+                    <button class="difficulty-btn hard" data-difficulty="hard">
+                        <span class="diff-icon">🌳</span>
+                        <span class="diff-name">困难</span>
+                        <span class="diff-desc">4+音节单词</span>
+                    </button>
+                </div>
+                <div class="word-count-info">
+                    <span id="word-count">0</span> 个单词可学习
+                </div>
+            </div>
+            
+            <div class="game-area" id="game-area" style="display: none;">
+                <div class="word-info">
+                    <div class="word-chinese" id="word-chinese"></div>
+                    <div class="word-phonetic-row">
+                        <div class="word-phonetic" id="word-phonetic"></div>
+                        <div class="pronunciation-btns">
+                            <button class="pronunciation-btn" id="pron-us-btn" title="美式发音">
+                                <span class="pron-icon">🔊</span>
+                                <span class="pron-label">美</span>
+                            </button>
+                            <button class="pronunciation-btn" id="pron-uk-btn" title="英式发音">
+                                <span class="pron-icon">🔊</span>
+                                <span class="pron-label">英</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+            <div class="drop-zone" id="drop-zone">
+                <div class="drop-placeholder">拖拽音节到此处</div>
+            </div>
+
+            <div class="syllable-pool" id="syllable-pool"></div>
+
+                <div class="controls">
+                    <button class="btn btn-primary" id="submit-btn">确认提交</button>
+                    <button class="btn btn-secondary" id="hint-btn">提示 (-5分)</button>
+                    <button class="btn btn-secondary" id="skip-btn">跳过 (-10分)</button>
+                    <button class="btn btn-secondary" id="back-btn">返回选难度</button>
+                </div>
+            </div>
+        </main>
+
+        <div class="result-modal" id="result-modal">
+            <div class="result-content">
+                <div class="result-icon" id="result-icon"></div>
+                <div class="result-text" id="result-text"></div>
+                <div class="result-word" id="result-word"></div>
+                <button class="btn btn-primary" id="next-btn">下一关</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="data/words_easy.js"></script>
+    <script src="data/words_normal.js"></script>
+    <script src="data/words_hard.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
