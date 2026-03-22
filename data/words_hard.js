@@ -81,8 +81,7 @@ window.WORDS_HARD = [
     "phonetic": "/ˈɛn.tɚˈteɪn.mənt/",
     "chinese": "n. 招待，招待会",
     "syllables": [
-      "en",
-      "ter",
+      "enter",
       "tain",
       "ment"
     ]
@@ -136,9 +135,7 @@ window.WORDS_HARD = [
     "phonetic": "/ˈɪn.təˌkɔːs/",
     "chinese": "n. 交际，往来，交流",
     "syllables": [
-      "in",
-      "ter",
-      "cour",
+      "intercour",
       "se"
     ]
   },
@@ -158,9 +155,7 @@ window.WORDS_HARD = [
     "phonetic": "/əˈtɛn.dəns/",
     "chinese": "n. 到场；出席人数",
     "syllables": [
-      "at",
-      "ten",
-      "dan",
+      "attendan",
       "ce"
     ]
   },
@@ -169,9 +164,7 @@ window.WORDS_HARD = [
     "phonetic": "/əkˈnɒ.lɪdʒ/",
     "chinese": "v. 承认；告知收到",
     "syllables": [
-      "ack",
-      "now",
-      "led",
+      "acknowled",
       "ge"
     ]
   },
@@ -235,8 +228,7 @@ window.WORDS_HARD = [
     "phonetic": "/ˈɛn.tɚˈteɪn.mənt/",
     "chinese": "n. 娱乐， 文娱节目， 表演会； 招待， 款待， 请客",
     "syllables": [
-      "en",
-      "ter",
+      "enter",
       "tain",
       "ment"
     ]
@@ -268,8 +260,7 @@ window.WORDS_HARD = [
     "phonetic": "/ək.ˈsɛp.təns/",
     "chinese": "n. 接受， 承认； 容忍",
     "syllables": [
-      "ac",
-      "cep",
+      "accep",
       "tan",
       "ce"
     ]
@@ -279,8 +270,7 @@ window.WORDS_HARD = [
     "phonetic": "/ə.ˈkɔɹd.əns/",
     "chinese": "n. 一致， 和谐， 符合",
     "syllables": [
-      "ac",
-      "cor",
+      "accor",
       "dan",
       "ce"
     ]
@@ -301,8 +291,7 @@ window.WORDS_HARD = [
     "phonetic": "[pə.ˈfɔː.məns]",
     "chinese": "n. 演出； 履行， 执行， 完成； 工作情况， 表现， 工作性能",
     "syllables": [
-      "per",
-      "for",
+      "perfor",
       "man",
       "ce"
     ]
@@ -334,9 +323,7 @@ window.WORDS_HARD = [
     "phonetic": "/əkˈnɒ.lɪdʒ/",
     "chinese": "vt. 承认， 承认…的权威； 告知收到， 确认； 对…表示谢意， 报偿",
     "syllables": [
-      "ack",
-      "now",
-      "led",
+      "acknowled",
       "ge"
     ]
   },
@@ -345,9 +332,7 @@ window.WORDS_HARD = [
     "phonetic": "/ˈɪn.təˌkɔːs/",
     "chinese": "n. 性交； 交流， 交往， 交际",
     "syllables": [
-      "in",
-      "ter",
-      "cour",
+      "intercour",
       "se"
     ]
   }

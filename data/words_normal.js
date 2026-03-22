@@ -75,8 +75,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 消耗；消费",
     "syllables": [
       "con",
-      "sum",
-      "ption"
+      "sumption"
     ]
   },
   {
@@ -154,8 +153,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈneɪbə.hʊd/",
     "chinese": "n. 附近",
     "syllables": [
-      "neig",
-      "hbor",
+      "neighbor",
       "hood"
     ]
   },
@@ -285,8 +283,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 勤奋的",
     "syllables": [
       "in",
-      "dust",
-      "rious"
+      "dustrious"
     ]
   },
   {
@@ -304,9 +301,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈæt.məsˌfɪə(ɹ)/",
     "chinese": "n. 气氛；大气（层）",
     "syllables": [
-      "at",
-      "mosp",
-      "here"
+      "atmosphe",
+      "re"
     ]
   },
   {
@@ -554,9 +550,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɒbˈd͡ʒɛk.tɪv/",
     "chinese": "n. 目标，目的",
     "syllables": [
-      "ob",
-      "jec",
-      "tive"
+      "objecti",
+      "ve"
     ]
   },
   {
@@ -595,8 +590,8 @@ window.WORDS_NORMAL = [
     "chinese": "n. 返还费用",
     "syllables": [
       "reim",
-      "bur",
-      "sement"
+      "burse",
+      "ment"
     ]
   },
   {
@@ -674,9 +669,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ædˈvɛn.tʃɚ.ɚ/",
     "chinese": "n. 冒险者",
     "syllables": [
-      "ad",
-      "ven",
-      "turer"
+      "adven",
+      "tu",
+      "rer"
     ]
   },
   {
@@ -714,9 +709,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪnˈdɪf.ə.ɹənt/",
     "chinese": "adj. 冷漠的",
     "syllables": [
-      "in",
-      "dif",
-      "ferent"
+      "indif",
+      "fe",
+      "rent"
     ]
   },
   {
@@ -735,8 +730,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 假设",
     "syllables": [
       "as",
-      "sum",
-      "ption"
+      "sumption"
     ]
   },
   {
@@ -884,9 +878,10 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɒl.ˈtɜː(ɹ).nə.tɪv/",
     "chinese": "n. 代替品",
     "syllables": [
-      "al",
-      "ter",
-      "native"
+      "alter",
+      "na",
+      "ti",
+      "ve"
     ]
   },
   {
@@ -904,9 +899,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˌkɒm.pɹɪˈhɛn.sɪv/",
     "chinese": "adj. 综合的，全面的",
     "syllables": [
-      "com",
-      "prehen",
-      "sive"
+      "compre",
+      "hensi",
+      "ve"
     ]
   },
   {
@@ -1004,8 +999,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/kɒn.tɹə.ˈvɜː.sjəl/",
     "chinese": "adj. 受到争议的",
     "syllables": [
-      "con",
-      "trover",
+      "contro",
+      "ver",
       "sial"
     ]
   },
@@ -1055,8 +1050,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 必须的；本质的",
     "syllables": [
       "es",
-      "sen",
-      "tial"
+      "sential"
     ]
   },
   {
@@ -1104,8 +1098,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ə.ˈkæʊn.(t)ən̩(t)/",
     "chinese": "n. 会计",
     "syllables": [
-      "ac",
-      "coun",
+      "accoun",
       "tant"
     ]
   },
@@ -1165,8 +1158,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 即时的，瞬间的",
     "syllables": [
       "in",
-      "stan",
-      "taneous"
+      "stantaneous"
     ]
   },
   {
@@ -1214,9 +1206,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ə.ˈkaʊn.tə.bəl/",
     "chinese": "adj. 应负责的，有责任的",
     "syllables": [
-      "ac",
-      "coun",
-      "table"
+      "accoun",
+      "tab",
+      "le"
     ]
   },
   {
@@ -1284,9 +1276,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒm.pən.seɪt/",
     "chinese": "v. 弥补",
     "syllables": [
-      "com",
-      "pen",
-      "sate"
+      "compen",
+      "sa",
+      "te"
     ]
   },
   {
@@ -1344,9 +1336,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪnˈtɜː.pɹɪt/",
     "chinese": "v. 口译；解释",
     "syllables": [
-      "in",
-      "ter",
-      "pret"
+      "interp",
+      "ret"
     ]
   },
   {
@@ -1454,9 +1445,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈʌn.də(ɹ)ˌskɔː(ɹ)/",
     "chinese": "v. 强调",
     "syllables": [
-      "un",
-      "der",
-      "score"
+      "undersco",
+      "re"
     ]
   },
   {
@@ -1474,9 +1464,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪ.ˈlʌs.tɹeɪt/",
     "chinese": "v. 阐明，说明",
     "syllables": [
-      "il",
-      "lust",
-      "rate"
+      "illust",
+      "ra",
+      "te"
     ]
   },
   {
@@ -1494,9 +1484,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈkɐm.plɪʃ/",
     "chinese": "v. 实现",
     "syllables": [
-      "ac",
-      "com",
-      "plish"
+      "accomp",
+      "lish"
     ]
   },
   {
@@ -1614,9 +1603,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪntə(ɹ)ˈmidi.ət/",
     "chinese": "n. 中间体；调解人",
     "syllables": [
-      "in",
-      "ter",
-      "mediate"
+      "intermedia",
+      "te"
     ]
   },
   {
@@ -1634,8 +1622,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˌkɒn.fəˈmeɪ.ʃən/",
     "chinese": "n. 证实，确定；确认",
     "syllables": [
-      "con",
-      "fir",
+      "confir",
       "mation"
     ]
   },
@@ -1774,8 +1761,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/kɒm.pɹɛʃ.ən/",
     "chinese": "n. 压缩，压紧，浓缩",
     "syllables": [
-      "com",
-      "pres",
+      "compres",
       "sion"
     ]
   },
@@ -1805,8 +1791,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 消费（量）",
     "syllables": [
       "con",
-      "sum",
-      "ption"
+      "sumption"
     ]
   },
   {
@@ -1845,8 +1830,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 吸收；专注",
     "syllables": [
       "ab",
-      "sor",
-      "ption"
+      "sorption"
     ]
   },
   {
@@ -1894,9 +1878,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪˈlɪp.tɪk.əl/",
     "chinese": "adj. 椭圆的；省略的",
     "syllables": [
-      "el",
-      "lip",
-      "tical"
+      "ellip",
+      "ti",
+      "cal"
     ]
   },
   {
@@ -1904,8 +1888,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈɪn.fə.ɹəns/",
     "chinese": "n. 推论；推断的结果",
     "syllables": [
-      "in",
-      "feren",
+      "infe",
+      "ren",
       "ce"
     ]
   },
@@ -1965,8 +1949,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 极其重要的；必不可少的",
     "syllables": [
       "es",
-      "sen",
-      "tial"
+      "sential"
     ]
   },
   {
@@ -2005,8 +1988,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 瞬间的，即刻的",
     "syllables": [
       "in",
-      "stan",
-      "taneous"
+      "stantaneous"
     ]
   },
   {
@@ -2024,8 +2006,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈɪn.flu.əns/",
     "chinese": "n. 势力，权势",
     "syllables": [
-      "in",
-      "fluen",
+      "influen",
       "ce"
     ]
   },
@@ -2064,8 +2045,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪmˈbæ.ɹəs/",
     "chinese": "v. 使…陷入困境",
     "syllables": [
-      "em",
-      "bar",
+      "embar",
       "rass"
     ]
   },
@@ -2094,8 +2074,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ʌn.ɪmˈplɔɪ.mənt/",
     "chinese": "n. 失业；失业人数",
     "syllables": [
-      "unem",
-      "ploy",
+      "unemp",
+      "loy",
       "ment"
     ]
   },
@@ -2165,8 +2145,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 勤劳的，勤奋的",
     "syllables": [
       "in",
-      "dust",
-      "rious"
+      "dustrious"
     ]
   },
   {
@@ -2274,8 +2253,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɛks.kɜː(ɹ).ʃən/",
     "chinese": "n. （尤指集体）远足，短途旅行",
     "syllables": [
-      "ex",
-      "cur",
+      "excur",
       "sion"
     ]
   },
@@ -2374,9 +2352,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪnˈtɜː.pɹɪt/",
     "chinese": "v. 口译；解释",
     "syllables": [
-      "in",
-      "ter",
-      "pret"
+      "interp",
+      "ret"
     ]
   },
   {
@@ -2465,8 +2442,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 继承（权）",
     "syllables": [
       "suc",
-      "ces",
-      "sion"
+      "cession"
     ]
   },
   {
@@ -2535,8 +2511,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 公正的，无偏见的",
     "syllables": [
       "im",
-      "par",
-      "tial"
+      "partial"
     ]
   },
   {
@@ -2545,8 +2520,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 公约，（换俘等）协定",
     "syllables": [
       "con",
-      "ven",
-      "tion"
+      "vention"
     ]
   },
   {
@@ -2584,8 +2558,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈpɛn.dɪks/",
     "chinese": "n. 附录；阑尾",
     "syllables": [
-      "ap",
-      "pen",
+      "appen",
       "dix"
     ]
   },
@@ -2614,8 +2587,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈbʌn.dn̩s/",
     "chinese": "n. 丰富，充裕",
     "syllables": [
-      "abun",
-      "dan",
+      "abundan",
       "ce"
     ]
   },
@@ -2624,9 +2596,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˌɪn.dɪɡ.ˈneɪ.ʃən/",
     "chinese": "n. 愤怒，愤慨，义愤",
     "syllables": [
-      "in",
-      "dig",
-      "nation"
+      "indig",
+      "na",
+      "tion"
     ]
   },
   {
@@ -2724,9 +2696,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/æmˈbæs.ə.də(ɹ)/",
     "chinese": "n. 大使，使节",
     "syllables": [
-      "am",
-      "bas",
-      "sador"
+      "ambas",
+      "sa",
+      "dor"
     ]
   },
   {
@@ -2754,9 +2726,10 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˌpɜː.pənˈdɪk.jə.lə(ɹ)/",
     "chinese": "adj. 垂直的",
     "syllables": [
-      "per",
-      "pen",
-      "dicular"
+      "perpen",
+      "di",
+      "cu",
+      "lar"
     ]
   },
   {
@@ -2774,8 +2747,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ænˈtɛn.ə/",
     "chinese": "n. 触角；天线",
     "syllables": [
-      "an",
-      "ten",
+      "anten",
       "na"
     ]
   },
@@ -2825,8 +2797,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 假定",
     "syllables": [
       "as",
-      "sum",
-      "ption"
+      "sumption"
     ]
   },
   {
@@ -2874,9 +2845,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪn.kəm.ˈpliːt/",
     "chinese": "adj. 不完全的，未完成的",
     "syllables": [
-      "in",
-      "com",
-      "plete"
+      "incomp",
+      "le",
+      "te"
     ]
   },
   {
@@ -2914,9 +2885,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɒbˈd͡ʒɛk.tɪv/",
     "chinese": "n. 目标 adj. 宾格的",
     "syllables": [
-      "ob",
-      "jec",
-      "tive"
+      "objecti",
+      "ve"
     ]
   },
   {
@@ -2994,9 +2964,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒm.pən.seɪt/",
     "chinese": "v. 补偿，赔偿",
     "syllables": [
-      "com",
-      "pen",
-      "sate"
+      "compen",
+      "sa",
+      "te"
     ]
   },
   {
@@ -3004,9 +2974,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒn.sən.tɹeɪt/",
     "chinese": "v. 浓缩，提浓",
     "syllables": [
-      "con",
-      "cen",
-      "trate"
+      "concent",
+      "ra",
+      "te"
     ]
   },
   {
@@ -3084,9 +3054,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒn.sən.tɹeɪt/",
     "chinese": "v. 全神贯注，全力以赴；集中，聚集；浓缩 n. 浓缩物， 浓缩液",
     "syllables": [
-      "con",
-      "cen",
-      "trate"
+      "concent",
+      "ra",
+      "te"
     ]
   },
   {
@@ -3214,8 +3184,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əbˈnɔɹ.ml̩/",
     "chinese": "adj. 反常的， 异常的",
     "syllables": [
-      "ab",
-      "nor",
+      "abnor",
       "mal"
     ]
   },
@@ -3224,8 +3193,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪn.ˈʃɔː.ɹəns/",
     "chinese": "n. 保险； 保险费",
     "syllables": [
-      "in",
-      "suran",
+      "insu",
+      "ran",
       "ce"
     ]
   },
@@ -3265,8 +3234,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 习俗， 惯例； 公约； 会议",
     "syllables": [
       "con",
-      "ven",
-      "tion"
+      "vention"
     ]
   },
   {
@@ -3294,9 +3262,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˌsæs.ɪ.ˈneɪ.ʃən/",
     "chinese": "n. 刺杀， 暗杀",
     "syllables": [
-      "as",
-      "sas",
-      "sination"
+      "assas",
+      "sina",
+      "tion"
     ]
   },
   {
@@ -3304,8 +3272,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/kɒn.tɹə.ˈvɜː.sjəl/",
     "chinese": "adj. 引起争论的， 有争议的",
     "syllables": [
-      "con",
-      "trover",
+      "contro",
+      "ver",
       "sial"
     ]
   },
@@ -3344,8 +3312,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈlaɪ.əns/",
     "chinese": "n. 结盟； 联盟",
     "syllables": [
-      "al",
-      "lian",
+      "allian",
       "ce"
     ]
   },
@@ -3364,9 +3331,10 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɒl.ˈtɜː(ɹ).nə.tɪv/",
     "chinese": "adj. 两者选一的， 供选择的； 另类的 n. 替换物，选择；选择的自由",
     "syllables": [
-      "al",
-      "ter",
-      "native"
+      "alter",
+      "na",
+      "ti",
+      "ve"
     ]
   },
   {
@@ -3474,9 +3442,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ə.ˈkʌm.pə.ni/",
     "chinese": "v. 陪同， 伴随； 为…伴奏",
     "syllables": [
-      "ac",
-      "com",
-      "pany"
+      "accompany"
     ]
   },
   {
@@ -3494,9 +3460,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪnˈtɜː.pɹɪt/",
     "chinese": "v. 解释， 说明； 口译",
     "syllables": [
-      "in",
-      "ter",
-      "pret"
+      "interp",
+      "ret"
     ]
   },
   {
@@ -3505,8 +3470,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 瞬间的， 即刻的",
     "syllables": [
       "in",
-      "stan",
-      "taneous"
+      "stantaneous"
     ]
   },
   {
@@ -3544,9 +3508,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪ.ˈlʌs.tɹeɪt/",
     "chinese": "vt. 说明",
     "syllables": [
-      "il",
-      "lust",
-      "rate"
+      "illust",
+      "ra",
+      "te"
     ]
   },
   {
@@ -3564,8 +3528,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈbʌn.dn̩s/",
     "chinese": "n. 大量， 丰富， 充足",
     "syllables": [
-      "abun",
-      "dan",
+      "abundan",
       "ce"
     ]
   },
@@ -3594,9 +3557,10 @@ window.WORDS_NORMAL = [
     "phonetic": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/",
     "chinese": "n. 住处， 膳宿",
     "syllables": [
-      "ac",
-      "com",
-      "modation"
+      "accom",
+      "mo",
+      "da",
+      "tion"
     ]
   },
   {
@@ -3675,8 +3639,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 词语； 表达， 表情",
     "syllables": [
       "ex",
-      "pres",
-      "sion"
+      "pression"
     ]
   },
   {
@@ -3684,9 +3647,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɛksˈtɛn.sɪv/",
     "chinese": "adj. 广阔的； 广泛的",
     "syllables": [
-      "ex",
-      "ten",
-      "sive"
+      "extensi",
+      "ve"
     ]
   },
   {
@@ -3744,8 +3706,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈsɪs.təns/",
     "chinese": "n. 协助， 援助",
     "syllables": [
-      "as",
-      "sistan",
+      "assistan",
       "ce"
     ]
   },
@@ -3804,8 +3765,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɛks.kɜː(ɹ).ʃən/",
     "chinese": "n. 远足， 短途旅行",
     "syllables": [
-      "ex",
-      "cur",
+      "excur",
       "sion"
     ]
   },
@@ -3884,9 +3844,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ədˈvɑːn.tɪdʒ/",
     "chinese": "n. 优点， 优势； 好处",
     "syllables": [
-      "ad",
-      "van",
-      "tage"
+      "advanta",
+      "ge"
     ]
   },
   {
@@ -3924,8 +3883,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈpɛn.dɪks/",
     "chinese": "n. 阑尾； 附录",
     "syllables": [
-      "ap",
-      "pen",
+      "appen",
       "dix"
     ]
   },
@@ -4004,8 +3962,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪnˈdɪɡ.nənt/",
     "chinese": "adj. 愤怒的， 愤慨的， 义愤的",
     "syllables": [
-      "in",
-      "dig",
+      "indig",
       "nant"
     ]
   },
@@ -4014,9 +3971,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/əˈkɐm.plɪʃ/",
     "chinese": "vt. 达到， 完成",
     "syllables": [
-      "ac",
-      "com",
-      "plish"
+      "accomp",
+      "lish"
     ]
   },
   {
@@ -4044,9 +4000,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈæt.məsˌfɪə(ɹ)/",
     "chinese": "n. 大气， 空气； 气氛， 环境",
     "syllables": [
-      "at",
-      "mosp",
-      "here"
+      "atmosphe",
+      "re"
     ]
   },
   {
@@ -4064,8 +4019,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/kən.ˈvɜːdʒ/",
     "chinese": "vi. 会合， 互相靠拢； 聚集， 集中； 趋近",
     "syllables": [
-      "con",
-      "ver",
+      "conver",
       "ge"
     ]
   },
@@ -4134,9 +4088,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/kənˈtɛm.p(ə).ɹi/",
     "chinese": "adj. 现代的， 当代的； 同时代的",
     "syllables": [
-      "con",
-      "tem",
-      "porary"
+      "contem",
+      "po",
+      "rary"
     ]
   },
   {
@@ -4284,8 +4238,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈæb.s(ə)n̩s/",
     "chinese": "n. 缺席， 不在； 缺席的时间， 外出期； 缺乏， 不存在",
     "syllables": [
-      "ab",
-      "sen",
+      "absen",
       "ce"
     ]
   },
@@ -4304,9 +4257,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈfɜː(ɹ).ðə(ɹ).mɔː(ɹ)/",
     "chinese": "adv. 而且， 此外",
     "syllables": [
-      "fur",
-      "ther",
-      "more"
+      "further",
+      "mo",
+      "re"
     ]
   },
   {
@@ -4354,9 +4307,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪnˈdɪf.ə.ɹənt/",
     "chinese": "adj. 冷漠的， 不积极的； 一般的， 平平的",
     "syllables": [
-      "in",
-      "dif",
-      "ferent"
+      "indif",
+      "fe",
+      "rent"
     ]
   },
   {
@@ -4374,8 +4327,7 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɪmˈbæ.ɹəs/",
     "chinese": "vt. 使窘迫， 使为难",
     "syllables": [
-      "em",
-      "bar",
+      "embar",
       "rass"
     ]
   },
@@ -4415,8 +4367,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 假定， 臆断； 担任， 承担",
     "syllables": [
       "as",
-      "sum",
-      "ption"
+      "sumption"
     ]
   },
   {
@@ -4445,8 +4396,7 @@ window.WORDS_NORMAL = [
     "chinese": "adj. 必要的，本质的 n. 要素； 必需品",
     "syllables": [
       "es",
-      "sen",
-      "tial"
+      "sential"
     ]
   },
   {
@@ -4464,9 +4414,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/dɪf.əˈɹɛn.ʃi.eɪt/",
     "chinese": "vi. 区分，区别 vt. 区分， 区别； 使不同， 使有差异",
     "syllables": [
-      "dif",
-      "feren",
-      "tiate"
+      "diffe",
+      "rentia",
+      "te"
     ]
   },
   {
@@ -4524,9 +4474,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˌkɒm.pɹɪˈhɛn.sɪv/",
     "chinese": "adj. 广泛的； 综合的； 理解的",
     "syllables": [
-      "com",
-      "prehen",
-      "sive"
+      "compre",
+      "hensi",
+      "ve"
     ]
   },
   {
@@ -4544,9 +4494,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒn.təmˌpleɪt/",
     "chinese": "vt. 盘算， 计议； 思量， 对…周密考虑； 注视， 凝视",
     "syllables": [
-      "con",
-      "tem",
-      "plate"
+      "contempla",
+      "te"
     ]
   },
   {
@@ -4564,9 +4513,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒm.pən.seɪt/",
     "chinese": "v. 补偿， 弥补； 抵消",
     "syllables": [
-      "com",
-      "pen",
-      "sate"
+      "compen",
+      "sa",
+      "te"
     ]
   },
   {
@@ -4644,9 +4593,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ɒbˈd͡ʒɛk.tɪv/",
     "chinese": "adj. 客观的， 无偏见的 n. 目标，目的",
     "syllables": [
-      "ob",
-      "jec",
-      "tive"
+      "objecti",
+      "ve"
     ]
   },
   {
@@ -4684,8 +4632,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˈkɒn.fə.ɹəns/",
     "chinese": "n. 会议， 讨论会； 讨论， 商谈",
     "syllables": [
-      "con",
-      "feren",
+      "confe",
+      "ren",
       "ce"
     ]
   },
@@ -4745,8 +4693,7 @@ window.WORDS_NORMAL = [
     "chinese": "n. 消耗， 消费； 肺病",
     "syllables": [
       "con",
-      "sum",
-      "ption"
+      "sumption"
     ]
   },
   {
@@ -4804,8 +4751,8 @@ window.WORDS_NORMAL = [
     "phonetic": "/ʌn.ɪmˈplɔɪ.mənt/",
     "chinese": "n. 失业， 失业人数",
     "syllables": [
-      "unem",
-      "ploy",
+      "unemp",
+      "loy",
       "ment"
     ]
   },
@@ -4844,9 +4791,9 @@ window.WORDS_NORMAL = [
     "phonetic": "/ˌɪn.dɪɡ.ˈneɪ.ʃən/",
     "chinese": "n. 愤怒， 愤慨， 义愤",
     "syllables": [
-      "in",
-      "dig",
-      "nation"
+      "indig",
+      "na",
+      "tion"
     ]
   },
   {

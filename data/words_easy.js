@@ -74,8 +74,9 @@ window.WORDS_EASY = [
     "phonetic": "/æb.səˈl(j)uːt.lɪ/",
     "chinese": "adv. 当然",
     "syllables": [
-      "ab",
-      "solutely"
+      "abso",
+      "lu",
+      "tely"
     ]
   },
   {
@@ -277,8 +278,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈɹæʃ.(ə.)nəl/",
     "chinese": "adj. 不合理的，不理性的",
     "syllables": [
-      "ir",
-      "rational"
+      "irra",
+      "tio",
+      "nal"
     ]
   },
   {
@@ -338,7 +340,9 @@ window.WORDS_EASY = [
     "phonetic": "/pɹɒˈspɛɹ.ɪ.ti/",
     "chinese": "n. 繁荣",
     "syllables": [
-      "prosperity"
+      "pros",
+      "pe",
+      "rity"
     ]
   },
   {
@@ -448,7 +452,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsaɪˈteɪ.ʃən/",
     "chinese": "n. 引文",
     "syllables": [
-      "citation"
+      "ci",
+      "tation"
     ]
   },
   {
@@ -521,8 +526,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvjuː.pɔɪnt/",
     "chinese": "n. 观点",
     "syllables": [
-      "view",
-      "point"
+      "vi",
+      "ewpoint"
     ]
   },
   {
@@ -631,7 +636,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌdɒk.jəˈmɛn.tɹi/",
     "chinese": "n. 纪录片",
     "syllables": [
-      "documen",
+      "docu",
+      "men",
       "tary"
     ]
   },
@@ -648,8 +654,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɹɪˈɡɑːd.lɪs/",
     "chinese": "adv. 不管，不顾",
     "syllables": [
-      "regar",
-      "dless"
+      "regard",
+      "less"
     ]
   },
   {
@@ -673,8 +679,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈpɑːt.mənt/",
     "chinese": "n. 公寓",
     "syllables": [
-      "apar",
-      "tment"
+      "apart",
+      "ment"
     ]
   },
   {
@@ -740,8 +746,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈfɪl.i.et/",
     "chinese": "v. 使隶属于",
     "syllables": [
-      "af",
-      "filiate"
+      "affi",
+      "lia",
+      "te"
     ]
   },
   {
@@ -866,8 +873,10 @@ window.WORDS_EASY = [
     "phonetic": "/æn.əˈlɪt.ə.kəl/",
     "chinese": "adj. 分析的",
     "syllables": [
-      "anal",
-      "ytical"
+      "a",
+      "nal",
+      "yti",
+      "cal"
     ]
   },
   {
@@ -1187,7 +1196,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹuː.ɪn/",
     "chinese": "v. 毁坏",
     "syllables": [
-      "ruin"
+      "ru",
+      "in"
     ]
   },
   {
@@ -1195,8 +1205,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪn.ˈspaɪə(ɹ)/",
     "chinese": "v. 鼓励",
     "syllables": [
-      "in",
-      "spire"
+      "inspi",
+      "re"
     ]
   },
   {
@@ -1220,8 +1230,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈʌp.ɡɹeɪd/",
     "chinese": "v. 升级",
     "syllables": [
-      "up",
-      "grade"
+      "upgra",
+      "de"
     ]
   },
   {
@@ -1273,8 +1283,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈʃʊɹ.ɚ/",
     "chinese": "n. 保险公司；承保人",
     "syllables": [
-      "in",
-      "surer"
+      "insu",
+      "rer"
     ]
   },
   {
@@ -1282,8 +1292,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌəʊ.vəˈsteɪt/",
     "chinese": "v. 夸张",
     "syllables": [
-      "over",
-      "state"
+      "oversta",
+      "te"
     ]
   },
   {
@@ -1610,8 +1620,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈdʒʌs.tɪs/",
     "chinese": "n. 不公正",
     "syllables": [
-      "in",
-      "justice"
+      "injusti",
+      "ce"
     ]
   },
   {
@@ -1670,7 +1680,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfjʊə.ɹɪəs/",
     "chinese": "adj. 生气的；激烈的",
     "syllables": [
-      "furious"
+      "fu",
+      "rious"
     ]
   },
   {
@@ -1678,8 +1689,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæk.jə.ɹɪt/",
     "chinese": "adj. 精确的",
     "syllables": [
-      "ac",
-      "curate"
+      "accu",
+      "ra",
+      "te"
     ]
   },
   {
@@ -1696,7 +1708,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɛp.ɹɪ.veɪʃən/",
     "chinese": "n. 剥夺，匮乏",
     "syllables": [
-      "deprivation"
+      "depri",
+      "vation"
     ]
   },
   {
@@ -1704,8 +1717,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɛzɪɡ.neɪt/",
     "chinese": "v. 指定，委派",
     "syllables": [
-      "desig",
-      "nate"
+      "designa",
+      "te"
     ]
   },
   {
@@ -1774,7 +1787,9 @@ window.WORDS_EASY = [
     "phonetic": "/djuː.plɪ.ˈkeɪ.ʃən/",
     "chinese": "n. 复制品",
     "syllables": [
-      "duplication"
+      "dupli",
+      "ca",
+      "tion"
     ]
   },
   {
@@ -1859,7 +1874,8 @@ window.WORDS_EASY = [
     "phonetic": "/vɛd͡ʒɪˈtɛəɹi.ən/",
     "chinese": "n. 素食主义者",
     "syllables": [
-      "vegetarian"
+      "vegeta",
+      "rian"
     ]
   },
   {
@@ -1986,7 +2002,8 @@ window.WORDS_EASY = [
     "phonetic": "/maɪ.ˈɡɹeɪt/",
     "chinese": "v. 移民；迁徙",
     "syllables": [
-      "migrate"
+      "migra",
+      "te"
     ]
   },
   {
@@ -2019,8 +2036,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌpɛ.səˈmɪs.tɪk/",
     "chinese": "adj. 悲观的",
     "syllables": [
-      "pes",
-      "simistic"
+      "pessi",
+      "mis",
+      "tic"
     ]
   },
   {
@@ -2119,8 +2137,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛnvi.əbl̩/",
     "chinese": "adj. 值得羡慕的",
     "syllables": [
-      "en",
-      "viable"
+      "enviab",
+      "le"
     ]
   },
   {
@@ -2260,8 +2278,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɛɹˈəʊ.nɪ.əs/",
     "chinese": "adj. 错误的",
     "syllables": [
-      "er",
-      "roneous"
+      "erro",
+      "neous"
     ]
   },
   {
@@ -2302,7 +2320,8 @@ window.WORDS_EASY = [
     "chinese": "n. 公式",
     "syllables": [
       "for",
-      "mula"
+      "mu",
+      "la"
     ]
   },
   {
@@ -2352,8 +2371,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɛn.sə.ti/",
     "chinese": "n. 密度",
     "syllables": [
-      "den",
-      "sity"
+      "density"
     ]
   },
   {
@@ -2387,7 +2405,8 @@ window.WORDS_EASY = [
     "phonetic": "/lʌkˈsjʊɹ.i.əs/",
     "chinese": "adj. 奢侈的，豪华的",
     "syllables": [
-      "luxurious"
+      "luxu",
+      "rious"
     ]
   },
   {
@@ -2395,8 +2414,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌæs.tɹəˈnɒm.ɪk.əl/",
     "chinese": "adj. 天文数字的",
     "syllables": [
-      "ast",
-      "ronomical"
+      "astro",
+      "no",
+      "mi",
+      "cal"
     ]
   },
   {
@@ -2413,8 +2434,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkʌɹ.ən.si/",
     "chinese": "n. 货币",
     "syllables": [
-      "cur",
-      "rency"
+      "currency"
     ]
   },
   {
@@ -2446,7 +2466,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkwɒl.ɪ.faɪ/",
     "chinese": "v. 使有资格",
     "syllables": [
-      "qualify"
+      "qu",
+      "a",
+      "lify"
     ]
   },
   {
@@ -2463,8 +2485,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛm.fə.saɪz/",
     "chinese": "v. 强调",
     "syllables": [
-      "em",
-      "phasize"
+      "empha",
+      "si",
+      "ze"
     ]
   },
   {
@@ -2574,8 +2597,8 @@ window.WORDS_EASY = [
     "phonetic": "/æθˈlɛt.ɪk/",
     "chinese": "adj. 强壮的；擅长运动的；运动的，运动员的",
     "syllables": [
-      "ath",
-      "letic"
+      "athle",
+      "tic"
     ]
   },
   {
@@ -2591,7 +2614,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnæv.ɪ.ɡeɪt/",
     "chinese": "v. 航行，驾驶",
     "syllables": [
-      "navigate"
+      "navi",
+      "ga",
+      "te"
     ]
   },
   {
@@ -2615,8 +2640,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒn.səʊl/",
     "chinese": "v. 安慰",
     "syllables": [
-      "con",
-      "sole"
+      "conso",
+      "le"
     ]
   },
   {
@@ -2735,7 +2760,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈjuː.nɪ.faɪd/",
     "chinese": "adj. 统一的",
     "syllables": [
-      "unified"
+      "uni",
+      "fied"
     ]
   },
   {
@@ -2743,7 +2769,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈheɪ.sən/",
     "chinese": "v. 加速",
     "syllables": [
-      "hasten"
+      "has",
+      "ten"
     ]
   },
   {
@@ -2862,7 +2889,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsʌs.pɛkt/",
     "chinese": "v. 怀疑 n. 嫌疑犯",
     "syllables": [
-      "suspect"
+      "sus",
+      "pect"
     ]
   },
   {
@@ -2922,7 +2950,8 @@ window.WORDS_EASY = [
     "phonetic": "/aɪˈdɛn.tɪ.faɪ/",
     "chinese": "v. 认出，识别",
     "syllables": [
-      "iden",
+      "i",
+      "den",
       "tify"
     ]
   },
@@ -2948,7 +2977,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒiː.nɪəs/",
     "chinese": "n. 天才",
     "syllables": [
-      "genius"
+      "ge",
+      "nius"
     ]
   },
   {
@@ -2956,8 +2986,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɛ.ɹi.əˌtaɪp/",
     "chinese": "n. 刻板印象，固有印象",
     "syllables": [
-      "stereot",
-      "ype"
+      "stereoty",
+      "pe"
     ]
   },
   {
@@ -3075,7 +3105,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtiː.dɪəs/",
     "chinese": "adj. 冗长的",
     "syllables": [
-      "tedious"
+      "te",
+      "dious"
     ]
   },
   {
@@ -3135,7 +3166,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɛm.əɹˌaɪ̯z/",
     "chinese": "v. 熟记",
     "syllables": [
-      "memorize"
+      "memori",
+      "ze"
     ]
   },
   {
@@ -3293,7 +3325,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛ.zəˌl(j)uːt/",
     "chinese": "adj. 坚定的",
     "syllables": [
-      "resolute"
+      "resolu",
+      "te"
     ]
   },
   {
@@ -3301,8 +3334,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈdɪk.ə.tɪv/",
     "chinese": "adj. 指示的",
     "syllables": [
-      "in",
-      "dicative"
+      "indi",
+      "cati",
+      "ve"
     ]
   },
   {
@@ -3318,7 +3352,9 @@ window.WORDS_EASY = [
     "phonetic": "/fɪˈlɒs.ə.fə(ɹ)/",
     "chinese": "n. 哲学家",
     "syllables": [
-      "philosopher"
+      "philo",
+      "sop",
+      "her"
     ]
   },
   {
@@ -3326,7 +3362,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛs.ə.pi/",
     "chinese": "n. 食谱；秘诀",
     "syllables": [
-      "recipe"
+      "re",
+      "ci",
+      "pe"
     ]
   },
   {
@@ -3443,7 +3481,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈhaɪ.dʒæk/",
     "chinese": "v. 劫持",
     "syllables": [
-      "hijack"
+      "hi",
+      "jack"
     ]
   },
   {
@@ -3605,7 +3644,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdjuː.plɪ.kət/",
     "chinese": "n. 副本，复制品",
     "syllables": [
-      "duplicate"
+      "dupli",
+      "ca",
+      "te"
     ]
   },
   {
@@ -3657,7 +3698,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈskaɪˌɹɒk.ɪt/",
     "chinese": "v. 猛增",
     "syllables": [
-      "skyrocket"
+      "skyroc",
+      "ket"
     ]
   },
   {
@@ -3774,7 +3816,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹɪˈveɪ.lɪŋ/",
     "chinese": "adj. 流行的",
     "syllables": [
-      "prevailing"
+      "prevai",
+      "ling"
     ]
   },
   {
@@ -3926,7 +3969,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈeɪ.li.ən/",
     "chinese": "adj. 陌生的",
     "syllables": [
-      "alien"
+      "a",
+      "li",
+      "en"
     ]
   },
   {
@@ -3934,7 +3979,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbɛə(ɹ).li/",
     "chinese": "adv. 几乎不，仅仅",
     "syllables": [
-      "barely"
+      "ba",
+      "rely"
     ]
   },
   {
@@ -3967,8 +4013,8 @@ window.WORDS_EASY = [
     "phonetic": "/kənˈt(ʃ)ɹɪb.juːt/",
     "chinese": "v. 有助于，促成；捐赠",
     "syllables": [
-      "con",
-      "tribute"
+      "contribu",
+      "te"
     ]
   },
   {
@@ -3994,7 +4040,8 @@ window.WORDS_EASY = [
     "chinese": "n. 申请者",
     "syllables": [
       "ap",
-      "plicant"
+      "pli",
+      "cant"
     ]
   },
   {
@@ -4010,7 +4057,8 @@ window.WORDS_EASY = [
     "phonetic": "[ˈfeɪ.ɾɫ̩]",
     "chinese": "adj. 致命的",
     "syllables": [
-      "fatal"
+      "fa",
+      "tal"
     ]
   },
   {
@@ -4036,8 +4084,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈsɪm.ɪ.leɪt/",
     "chinese": "v. 同化",
     "syllables": [
-      "as",
-      "similate"
+      "assi",
+      "mila",
+      "te"
     ]
   },
   {
@@ -4086,7 +4135,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɔː.ɹɪ.ənt/",
     "chinese": "v. 使确定方向；使适应",
     "syllables": [
-      "orient"
+      "o",
+      "ri",
+      "ent"
     ]
   },
   {
@@ -4110,8 +4161,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈʌt.ə(ɹ).li/",
     "chinese": "adv. 完全地，彻底地",
     "syllables": [
-      "ut",
-      "terly"
+      "utterly"
     ]
   },
   {
@@ -4145,7 +4195,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɒm.ə.neɪt/",
     "chinese": "v. 提名",
     "syllables": [
-      "nominate"
+      "nomi",
+      "na",
+      "te"
     ]
   },
   {
@@ -4204,8 +4256,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪmˈpɪ.ɹi.əl/",
     "chinese": "adj. 帝国的",
     "syllables": [
-      "im",
-      "perial"
+      "impe",
+      "rial"
     ]
   },
   {
@@ -4314,8 +4366,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkæp.t͡ʃə/",
     "chinese": "v. 逮捕；捕捉",
     "syllables": [
-      "cap",
-      "ture"
+      "captu",
+      "re"
     ]
   },
   {
@@ -4525,8 +4577,9 @@ window.WORDS_EASY = [
     "phonetic": "/ænˈtɪs.ɪ.peɪt/",
     "chinese": "v. 期望，预期",
     "syllables": [
-      "an",
-      "ticipate"
+      "anti",
+      "cipa",
+      "te"
     ]
   },
   {
@@ -4687,8 +4740,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtæŋ.ɡəld/",
     "chinese": "adj. 纠缠的；复杂的",
     "syllables": [
-      "tang",
-      "led"
+      "tan",
+      "gled"
     ]
   },
   {
@@ -4744,8 +4797,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsɜː(ɹ).kjʊˈleɪ.ʃən/",
     "chinese": "n. 发行量",
     "syllables": [
-      "cir",
-      "culation"
+      "circu",
+      "lation"
     ]
   },
   {
@@ -4785,7 +4838,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɔːkˈsɪli.əɹi/",
     "chinese": "adj. 辅助的",
     "syllables": [
-      "auxiliary"
+      "auxi",
+      "liary"
     ]
   },
   {
@@ -4983,7 +5037,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛl.əˌkwənt/",
     "chinese": "adj. 口才好的，雄辩的",
     "syllables": [
-      "eloquent"
+      "e",
+      "loquent"
     ]
   },
   {
@@ -5024,7 +5079,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfæb.ɹɪk/",
     "chinese": "n. 布料",
     "syllables": [
-      "fabric"
+      "fab",
+      "ric"
     ]
   },
   {
@@ -5041,7 +5097,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈɹæd.ɪ.keɪt/",
     "chinese": "v. 根除",
     "syllables": [
-      "eradicate"
+      "era",
+      "dica",
+      "te"
     ]
   },
   {
@@ -5131,7 +5189,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈleɪ.aʊt/",
     "chinese": "n. 布局，设计",
     "syllables": [
-      "layout"
+      "la",
+      "yout"
     ]
   },
   {
@@ -5156,7 +5215,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdiːvi.ət/",
     "chinese": "v. 偏离",
     "syllables": [
-      "deviate"
+      "devia",
+      "te"
     ]
   },
   {
@@ -5190,8 +5250,8 @@ window.WORDS_EASY = [
     "phonetic": "/kənˈspɪk.ju.əs/",
     "chinese": "adj. 显著的",
     "syllables": [
-      "con",
-      "spicuous"
+      "conspi",
+      "cuous"
     ]
   },
   {
@@ -5199,8 +5259,9 @@ window.WORDS_EASY = [
     "phonetic": "/sɪɡˈnɪ.fɪ.kənt/",
     "chinese": "adj. 重要的",
     "syllables": [
-      "sig",
-      "nificant"
+      "signi",
+      "fi",
+      "cant"
     ]
   },
   {
@@ -5335,8 +5396,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɪn.tɪ.mət/",
     "chinese": "adj. 亲密的",
     "syllables": [
-      "in",
-      "timate"
+      "inti",
+      "ma",
+      "te"
     ]
   },
   {
@@ -5344,7 +5406,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌdɪs.ɪŋˈɡeɪdʒ.mənt/",
     "chinese": "n. 分离",
     "syllables": [
-      "disengagement"
+      "disen",
+      "gage",
+      "ment"
     ]
   },
   {
@@ -5360,7 +5424,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒɛs.tʃɚ/",
     "chinese": "n. 姿势，手势",
     "syllables": [
-      "gesture"
+      "gestu",
+      "re"
     ]
   },
   {
@@ -5393,8 +5458,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌɒn.tɹə.pɹəˈnɜː/",
     "chinese": "n. 企业家",
     "syllables": [
-      "en",
-      "trepreneur"
+      "entrep",
+      "reneur"
     ]
   },
   {
@@ -5435,7 +5500,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɪː(ə).kəl/",
     "chinese": "n. 车辆",
     "syllables": [
-      "vehicle"
+      "vehic",
+      "le"
     ]
   },
   {
@@ -5501,8 +5567,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌæl.fəˈbɛt.ɪ.kəl/",
     "chinese": "adj. 按字母表顺序的",
     "syllables": [
-      "al",
-      "phabetical"
+      "alpha",
+      "be",
+      "ti",
+      "cal"
     ]
   },
   {
@@ -5669,7 +5737,8 @@ window.WORDS_EASY = [
     "phonetic": "/səˈspɪ.ʃəs/",
     "chinese": "adj. 怀疑的",
     "syllables": [
-      "suspicious"
+      "sus",
+      "picious"
     ]
   },
   {
@@ -5790,7 +5859,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmæn.ə.fɛst/",
     "chinese": "v. 表明",
     "syllables": [
-      "manifest"
+      "ma",
+      "ni",
+      "fest"
     ]
   },
   {
@@ -5873,7 +5944,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɪt.ɹə.si/",
     "chinese": "n. 识字， 有文化",
     "syllables": [
-      "literacy"
+      "li",
+      "te",
+      "racy"
     ]
   },
   {
@@ -5940,8 +6013,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnaɪt.mɛə/",
     "chinese": "n. 噩梦",
     "syllables": [
-      "nig",
-      "htmare"
+      "nightma",
+      "re"
     ]
   },
   {
@@ -6091,7 +6164,9 @@ window.WORDS_EASY = [
     "phonetic": "/maɪˈnɒɹ.ɪ.ti/",
     "chinese": "n. 少数，少数民族",
     "syllables": [
-      "minority"
+      "mi",
+      "no",
+      "rity"
     ]
   },
   {
@@ -6107,7 +6182,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɪ.sə.plɪn/",
     "chinese": "n. 训练，管教",
     "syllables": [
-      "discipline"
+      "discip",
+      "li",
+      "ne"
     ]
   },
   {
@@ -6139,7 +6216,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɹuː.ʃəl/",
     "chinese": "adj. 关键的",
     "syllables": [
-      "crucial"
+      "cru",
+      "cial"
     ]
   },
   {
@@ -6199,7 +6277,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒʌs.tɪs/",
     "chinese": "n. 公平",
     "syllables": [
-      "justice"
+      "justi",
+      "ce"
     ]
   },
   {
@@ -6224,8 +6303,9 @@ window.WORDS_EASY = [
     "phonetic": "/ʌndɚˈɛs.tɨ.meɪt/",
     "chinese": "v. 低估",
     "syllables": [
-      "un",
-      "derestimate"
+      "underes",
+      "tima",
+      "te"
     ]
   },
   {
@@ -6241,7 +6321,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɑet.ə.mən/",
     "chinese": "n. 维他命",
     "syllables": [
-      "vitamin"
+      "vi",
+      "ta",
+      "min"
     ]
   },
   {
@@ -6258,8 +6340,8 @@ window.WORDS_EASY = [
     "phonetic": "/bækˈtɪəɹ.ɪ.ə/",
     "chinese": "n. 细菌",
     "syllables": [
-      "bac",
-      "teria"
+      "bacte",
+      "ria"
     ]
   },
   {
@@ -6283,7 +6365,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɛɡ.ˈzɪs.təns/",
     "chinese": "n. 存在；生存",
     "syllables": [
-      "existen",
+      "exis",
+      "ten",
       "ce"
     ]
   },
@@ -6359,7 +6442,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpæ.ɹə.daɪs/",
     "chinese": "n. 天堂",
     "syllables": [
-      "paradise"
+      "para",
+      "di",
+      "se"
     ]
   },
   {
@@ -6367,8 +6452,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛθ.nɪk/",
     "chinese": "adj. 种族的",
     "syllables": [
-      "eth",
-      "nic"
+      "et",
+      "hnic"
     ]
   },
   {
@@ -6376,8 +6461,10 @@ window.WORDS_EASY = [
     "phonetic": "/æk.ˈsɛl.ə.ˌɹeɪt/",
     "chinese": "v. 加速",
     "syllables": [
-      "ac",
-      "celerate"
+      "acce",
+      "le",
+      "ra",
+      "te"
     ]
   },
   {
@@ -6545,7 +6632,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkeɪ.ɒs/",
     "chinese": "n. 混乱",
     "syllables": [
-      "chaos"
+      "cha",
+      "os"
     ]
   },
   {
@@ -6562,7 +6650,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɪ.tʃu.əl/",
     "chinese": "n. 仪式",
     "syllables": [
-      "ritual"
+      "ri",
+      "tu",
+      "al"
     ]
   },
   {
@@ -6570,7 +6660,8 @@ window.WORDS_EASY = [
     "phonetic": "/kɹaɪˈtɪəɹ.i.ə/",
     "chinese": "n. 标准",
     "syllables": [
-      "criteria"
+      "crite",
+      "ria"
     ]
   },
   {
@@ -6614,7 +6705,8 @@ window.WORDS_EASY = [
     "chinese": "n. 焦虑",
     "syllables": [
       "an",
-      "xiety"
+      "xi",
+      "ety"
     ]
   },
   {
@@ -6639,7 +6731,10 @@ window.WORDS_EASY = [
     "phonetic": "/hɒs.pɪˈtæl.ɪ.ti/",
     "chinese": "n. 友好",
     "syllables": [
-      "hospitality"
+      "hos",
+      "pi",
+      "ta",
+      "lity"
     ]
   },
   {
@@ -6773,7 +6868,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌaɪ.diːˈɒl.ə.d͡ʒiː/",
     "chinese": "n. 意识形态",
     "syllables": [
-      "ideology"
+      "i",
+      "de",
+      "o",
+      "logy"
     ]
   },
   {
@@ -6807,7 +6905,8 @@ window.WORDS_EASY = [
     "chinese": "v. 夸张",
     "syllables": [
       "exag",
-      "gerate"
+      "gera",
+      "te"
     ]
   },
   {
@@ -6941,7 +7040,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɔːtəʊˌmæt.ɪk(.ə)li/",
     "chinese": "adv. 自动地；不经思考地",
     "syllables": [
-      "automatically"
+      "auto",
+      "mati",
+      "cally"
     ]
   },
   {
@@ -7012,8 +7113,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɹɪˈsɛp.ʃn̩/",
     "chinese": "n. 接待",
     "syllables": [
-      "recep",
-      "tion"
+      "re",
+      "ception"
     ]
   },
   {
@@ -7114,7 +7215,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹɪˈsɪ.ʒ(ə)n/",
     "chinese": "n. 精确性",
     "syllables": [
-      "precision"
+      "pre",
+      "cision"
     ]
   },
   {
@@ -7171,7 +7273,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæ.ɡən.aɪz/",
     "chinese": "v. 使痛苦",
     "syllables": [
-      "agonize"
+      "ago",
+      "ni",
+      "ze"
     ]
   },
   {
@@ -7279,7 +7383,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈθɹɛt.n̩/",
     "chinese": "v. 威胁",
     "syllables": [
-      "threaten"
+      "threa",
+      "ten"
     ]
   },
   {
@@ -7312,7 +7417,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌæb.əˈlɪʃ.n̩/",
     "chinese": "n. 废除",
     "syllables": [
-      "abolition"
+      "abo",
+      "lition"
     ]
   },
   {
@@ -7329,7 +7435,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈskaɪˌskɹeɪp.ə(ɹ)/",
     "chinese": "n. 摩天大楼",
     "syllables": [
-      "skyscraper"
+      "skyscra",
+      "per"
     ]
   },
   {
@@ -7424,8 +7531,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪmˈpɛɹ.ə.tɪv/",
     "chinese": "adj. 必须的,必要的",
     "syllables": [
-      "im",
-      "perative"
+      "impe",
+      "rati",
+      "ve"
     ]
   },
   {
@@ -7449,7 +7557,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒs.tjuːm/",
     "chinese": "n. 服装",
     "syllables": [
-      "costume"
+      "costu",
+      "me"
     ]
   },
   {
@@ -7457,7 +7566,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈman.j(ʊ)əl/",
     "chinese": "adj. 手工的；体力的",
     "syllables": [
-      "manual"
+      "ma",
+      "nual"
     ]
   },
   {
@@ -7825,7 +7935,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈskɛ.dʒu.əl/",
     "chinese": "n. 计划表",
     "syllables": [
-      "schedule"
+      "sche",
+      "du",
+      "le"
     ]
   },
   {
@@ -7932,8 +8044,10 @@ window.WORDS_EASY = [
     "phonetic": "/əˈpɹɒk.sɪ.mət.li/",
     "chinese": "adv. 大约",
     "syllables": [
-      "ap",
-      "proximately"
+      "appro",
+      "xi",
+      "ma",
+      "tely"
     ]
   },
   {
@@ -7949,7 +8063,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌvæl.əˈdeɪ.ʃən/",
     "chinese": "n. 证实",
     "syllables": [
-      "validation"
+      "vali",
+      "dation"
     ]
   },
   {
@@ -8034,7 +8149,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 两党的",
     "syllables": [
       "bipar",
-      "tisan"
+      "ti",
+      "san"
     ]
   },
   {
@@ -8068,8 +8184,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈli.vi.eɪt/",
     "chinese": "v. 减轻，缓解",
     "syllables": [
-      "al",
-      "leviate"
+      "alle",
+      "via",
+      "te"
     ]
   },
   {
@@ -8077,7 +8194,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒɛn.əɹ.eɪt/",
     "chinese": "v. 产生",
     "syllables": [
-      "generate"
+      "gene",
+      "ra",
+      "te"
     ]
   },
   {
@@ -8112,7 +8231,8 @@ window.WORDS_EASY = [
     "phonetic": "/spəˈsɪf.ɪk/",
     "chinese": "adj. 具体的",
     "syllables": [
-      "specific"
+      "speci",
+      "fic"
     ]
   },
   {
@@ -8120,7 +8240,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛl.ə.ɡənt/",
     "chinese": "adj. 高雅的，雅致的",
     "syllables": [
-      "elegant"
+      "e",
+      "le",
+      "gant"
     ]
   },
   {
@@ -8128,7 +8250,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkæp.ɪ.təl/",
     "chinese": "adj. 资金的，资本的",
     "syllables": [
-      "capital"
+      "ca",
+      "pi",
+      "tal"
     ]
   },
   {
@@ -8179,8 +8303,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæɡ.ɹə.veɪ̯t/",
     "chinese": "v. 加重，加剧",
     "syllables": [
-      "ag",
-      "gravate"
+      "aggra",
+      "va",
+      "te"
     ]
   },
   {
@@ -8230,7 +8355,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɹəˈtɒɹ.ɪ.kəl/",
     "chinese": "adj. 修辞的",
     "syllables": [
-      "rhetorical"
+      "rheto",
+      "ri",
+      "cal"
     ]
   },
   {
@@ -8340,7 +8467,9 @@ window.WORDS_EASY = [
     "chinese": "adv. 随后",
     "syllables": [
       "sub",
-      "sequently"
+      "se",
+      "qu",
+      "ently"
     ]
   },
   {
@@ -8447,7 +8576,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkʌv.əɹ.ɪdʒ/",
     "chinese": "n. 报道",
     "syllables": [
-      "coverage"
+      "cove",
+      "ra",
+      "ge"
     ]
   },
   {
@@ -8521,7 +8652,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈflɛk.sə.bəl/",
     "chinese": "adj. 灵活的",
     "syllables": [
-      "flexible"
+      "fle",
+      "xib",
+      "le"
     ]
   },
   {
@@ -8632,7 +8765,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 理智的",
     "syllables": [
       "sen",
-      "sible"
+      "sib",
+      "le"
     ]
   },
   {
@@ -8649,7 +8783,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹɪˈsiː.dənt/",
     "chinese": "n. 先例",
     "syllables": [
-      "precedent"
+      "prece",
+      "dent"
     ]
   },
   {
@@ -8693,7 +8828,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɒk.sɪk/",
     "chinese": "adj. 有毒的",
     "syllables": [
-      "toxic"
+      "to",
+      "xic"
     ]
   },
   {
@@ -8751,7 +8887,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɛdʒ.ənd/",
     "chinese": "n. 传奇",
     "syllables": [
-      "legend"
+      "le",
+      "gend"
     ]
   },
   {
@@ -8852,8 +8989,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɒ.bi.ɪst/",
     "chinese": "n. 游说者",
     "syllables": [
-      "lob",
-      "byist"
+      "lobbyist"
     ]
   },
   {
@@ -8895,8 +9031,9 @@ window.WORDS_EASY = [
     "phonetic": "/kəˈɹɪk.jə.ləm/",
     "chinese": "n. 课程",
     "syllables": [
-      "cur",
-      "riculum"
+      "curri",
+      "cu",
+      "lum"
     ]
   },
   {
@@ -8940,7 +9077,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɪm.jə.ləs/",
     "chinese": "n. 刺激",
     "syllables": [
-      "stimulus"
+      "sti",
+      "mu",
+      "lus"
     ]
   },
   {
@@ -9016,8 +9155,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɑn.sɪ.kwənt/",
     "chinese": "adj. 作为结果的；必然的",
     "syllables": [
-      "con",
-      "sequent"
+      "conse",
+      "quent"
     ]
   },
   {
@@ -9254,8 +9393,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbɔːʒ.wɑː/",
     "chinese": "adj. 中产阶级的；庸俗的；资产阶级的",
     "syllables": [
-      "bour",
-      "geois"
+      "bo",
+      "urgeois"
     ]
   },
   {
@@ -9399,8 +9538,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwɜːk.ʃɒp/",
     "chinese": "n. 专题讨论会",
     "syllables": [
-      "wor",
-      "kshop"
+      "work",
+      "shop"
     ]
   },
   {
@@ -9448,8 +9587,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwɒt͡ʃ.fəl/",
     "chinese": "adj. 注意的，警惕的",
     "syllables": [
-      "wat",
-      "chful"
+      "watc",
+      "hful"
     ]
   },
   {
@@ -9466,7 +9605,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɔ.ɹɪd͡ʒ/",
     "chinese": "n. 贮藏；保管",
     "syllables": [
-      "storage"
+      "stora",
+      "ge"
     ]
   },
   {
@@ -9550,7 +9690,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæksi.əl/",
     "chinese": "adj. 轴的；轴向的",
     "syllables": [
-      "axial"
+      "a",
+      "xial"
     ]
   },
   {
@@ -9567,7 +9708,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 周围的，包围着的",
     "syllables": [
       "am",
-      "bient"
+      "bi",
+      "ent"
     ]
   },
   {
@@ -9599,8 +9741,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛn.i.bɒd.i/",
     "chinese": "n. 重要人物",
     "syllables": [
-      "an",
-      "ybody"
+      "anybody"
     ]
   },
   {
@@ -9649,7 +9790,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹəʊ.tɒn/",
     "chinese": "n. 质子，氕核",
     "syllables": [
-      "proton"
+      "pro",
+      "ton"
     ]
   },
   {
@@ -9657,7 +9799,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkwɒl.ɪ.tə.tɪv/",
     "chinese": "adj. 质的；定性的",
     "syllables": [
-      "qualitative"
+      "qua",
+      "lita",
+      "ti",
+      "ve"
     ]
   },
   {
@@ -9665,7 +9810,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfæb.ɹɪ.keɪt/",
     "chinese": "v. 捏造；制作",
     "syllables": [
-      "fabricate"
+      "fabri",
+      "ca",
+      "te"
     ]
   },
   {
@@ -9681,8 +9828,8 @@ window.WORDS_EASY = [
     "phonetic": "/vɒl.ənˈtɪə/",
     "chinese": "n. 志愿者 v. 志愿",
     "syllables": [
-      "volun",
-      "teer"
+      "vo",
+      "lunteer"
     ]
   },
   {
@@ -9698,8 +9845,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈdɪk.ə.tɪv/",
     "chinese": "adj. 指示的；陈述的",
     "syllables": [
-      "in",
-      "dicative"
+      "indi",
+      "cati",
+      "ve"
     ]
   },
   {
@@ -9715,8 +9863,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɛzɪɡ.neɪt/",
     "chinese": "v. 指定；指示；指明",
     "syllables": [
-      "desig",
-      "nate"
+      "designa",
+      "te"
     ]
   },
   {
@@ -9724,7 +9872,8 @@ window.WORDS_EASY = [
     "phonetic": "/kəˈləʊ.ni.əl/",
     "chinese": "adj. 殖民地的，殖民的",
     "syllables": [
-      "colonial"
+      "colo",
+      "nial"
     ]
   },
   {
@@ -9756,7 +9905,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwiː.və(ɹ)/",
     "chinese": "n. 织布工，编织者",
     "syllables": [
-      "weaver"
+      "wea",
+      "ver"
     ]
   },
   {
@@ -9812,7 +9962,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɒl.ɪ.tɪks/",
     "chinese": "n. 政纲，政见，策略",
     "syllables": [
-      "politics"
+      "po",
+      "li",
+      "tics"
     ]
   },
   {
@@ -10024,8 +10176,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɛn.saɪ(ə)l/",
     "chinese": "adj. 张力的；能伸长的",
     "syllables": [
-      "ten",
-      "sile"
+      "tensi",
+      "le"
     ]
   },
   {
@@ -10076,7 +10228,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɪs.kəs/",
     "chinese": "adj. 粘滞的，粘性的",
     "syllables": [
-      "viscous"
+      "vis",
+      "cous"
     ]
   },
   {
@@ -10251,8 +10404,8 @@ window.WORDS_EASY = [
     "phonetic": "/ə.lɒŋˈsaɪd/",
     "chinese": "prep. 在…旁边",
     "syllables": [
-      "along",
-      "side"
+      "alongsi",
+      "de"
     ]
   },
   {
@@ -10268,7 +10421,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈəʊ.və(ɹ)/",
     "chinese": "prep. 在（做）…时",
     "syllables": [
-      "over"
+      "o",
+      "ver"
     ]
   },
   {
@@ -10359,7 +10513,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnjuː.kli.əs/",
     "chinese": "n. 原子核，细胞核",
     "syllables": [
-      "nucleus"
+      "nuc",
+      "le",
+      "us"
     ]
   },
   {
@@ -10393,7 +10549,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹɒf.ɪt/",
     "chinese": "n. 预言家，先知",
     "syllables": [
-      "prophet"
+      "prop",
+      "het"
     ]
   },
   {
@@ -10477,7 +10634,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒz.mɪk/",
     "chinese": "adj. 宇宙的；广大无边的，极大的",
     "syllables": [
-      "cosmic"
+      "cos",
+      "mic"
     ]
   },
   {
@@ -10485,7 +10643,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒz.mɒs/",
     "chinese": "n. 宇宙",
     "syllables": [
-      "cosmos"
+      "cos",
+      "mos"
     ]
   },
   {
@@ -10528,8 +10687,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌtɔː(ɹ)ˈpiː.dəʊ/",
     "chinese": "n. 鱼雷，水雷",
     "syllables": [
-      "tor",
-      "pedo"
+      "torpe",
+      "do"
     ]
   },
   {
@@ -10597,8 +10756,9 @@ window.WORDS_EASY = [
     "phonetic": "/sɪɡˈnɪ.fɪ.kənt/",
     "chinese": "adj. 重要的，重大的，影响深远的",
     "syllables": [
-      "sig",
-      "nificant"
+      "signi",
+      "fi",
+      "cant"
     ]
   },
   {
@@ -10647,8 +10807,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɜːti.əs/",
     "chinese": "adj. 有礼貌的，谦恭的",
     "syllables": [
-      "cour",
-      "teous"
+      "co",
+      "urteous"
     ]
   },
   {
@@ -10705,7 +10865,11 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsʊu.pɪə(ɹ)ˌi.ɒ.ɹɪ.ti/",
     "chinese": "n. 优越（性），优势",
     "syllables": [
-      "superiority"
+      "su",
+      "pe",
+      "ri",
+      "o",
+      "rity"
     ]
   },
   {
@@ -10931,7 +11095,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌdɛ.ɹɪˈveɪ.ʃ(ə)n/",
     "chinese": "n. 引出；起源；衍生",
     "syllables": [
-      "derivation"
+      "deri",
+      "vation"
     ]
   },
   {
@@ -11023,7 +11188,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɑb.ləˈɡeɪ.ʃən/",
     "chinese": "n. 义务，职责，责任",
     "syllables": [
-      "obligation"
+      "obli",
+      "gation"
     ]
   },
   {
@@ -11205,10 +11371,11 @@ window.WORDS_EASY = [
   },
   {
     "word": "amateur",
-    "phonetic": "",
+    "phonetic": "/ˈæ.mə.tə/",
     "chinese": "adj. 业余的 n. 业余爱好者",
     "syllables": [
-      "amateur"
+      "ama",
+      "teur"
     ]
   },
   {
@@ -11258,7 +11425,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈweɪ.və(ɹ)/",
     "chinese": "v. 犹豫不决；摇摆",
     "syllables": [
-      "waver"
+      "wa",
+      "ver"
     ]
   },
   {
@@ -11315,7 +11483,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæn.əʊd/",
     "chinese": "n. 阳极，正极，板极",
     "syllables": [
-      "anode"
+      "ano",
+      "de"
     ]
   },
   {
@@ -11398,7 +11567,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈəʊpi.əm/",
     "chinese": "n. 鸦片；麻醉剂",
     "syllables": [
-      "opium"
+      "o",
+      "pium"
     ]
   },
   {
@@ -11447,8 +11617,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsɜː(ɹ).kjʊˈleɪ.ʃən/",
     "chinese": "n. 血液循环；（资料、货币等）流通",
     "syllables": [
-      "cir",
-      "culation"
+      "circu",
+      "lation"
     ]
   },
   {
@@ -11497,7 +11667,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪdi.ənt/",
     "chinese": "adj. 容光焕发的；灿烂的",
     "syllables": [
-      "radiant"
+      "ra",
+      "diant"
     ]
   },
   {
@@ -11548,8 +11719,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒn.səʊl/",
     "chinese": "n. 悬臂，肘托；控制台",
     "syllables": [
-      "con",
-      "sole"
+      "conso",
+      "le"
     ]
   },
   {
@@ -11557,7 +11728,9 @@ window.WORDS_EASY = [
     "phonetic": "[ˌpɹɒp.ə.ˈɡæn.də]",
     "chinese": "n. 宣传",
     "syllables": [
-      "propagan",
+      "pro",
+      "pa",
+      "gan",
       "da"
     ]
   },
@@ -11626,7 +11799,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛl.ə.kwəns/",
     "chinese": "n. 雄辩；口才，修辞",
     "syllables": [
-      "eloquen",
+      "elo",
+      "quen",
       "ce"
     ]
   },
@@ -11752,8 +11926,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˌpɹiː.ʃiˈeɪ.ʃən/",
     "chinese": "n. 欣赏；感激",
     "syllables": [
-      "ap",
-      "preciation"
+      "apprecia",
+      "tion"
     ]
   },
   {
@@ -11843,8 +12017,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌkəʊ.iˈfɪʃn̩t/",
     "chinese": "n. 协同因素；系数，率",
     "syllables": [
-      "coef",
-      "ficient"
+      "coeffi",
+      "cient"
     ]
   },
   {
@@ -11935,8 +12109,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpæmf.lɪt/",
     "chinese": "n. 小册子",
     "syllables": [
-      "pam",
-      "phlet"
+      "pamp",
+      "hlet"
     ]
   },
   {
@@ -12062,7 +12236,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɹeɪ.ɡɹənt/",
     "chinese": "adj. 香的，芬芳的",
     "syllables": [
-      "fragrant"
+      "frag",
+      "rant"
     ]
   },
   {
@@ -12129,7 +12304,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɪn.i.ə/",
     "chinese": "adj. 线的；长度的",
     "syllables": [
-      "linear"
+      "li",
+      "ne",
+      "ar"
     ]
   },
   {
@@ -12137,7 +12314,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkwɒl.ɪ.faɪ/",
     "chinese": "v. 限制，限定，修饰",
     "syllables": [
-      "qualify"
+      "qu",
+      "a",
+      "lify"
     ]
   },
   {
@@ -12169,8 +12348,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈpæ.ɹənt/",
     "chinese": "adj. 显然的",
     "syllables": [
-      "ap",
-      "parent"
+      "appa",
+      "rent"
     ]
   },
   {
@@ -12186,7 +12365,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbeɪ.kən/",
     "chinese": "n. 咸猪肉，熏猪肉",
     "syllables": [
-      "bacon"
+      "ba",
+      "con"
     ]
   },
   {
@@ -12228,7 +12408,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈʃaʊ.ə(ɹ)/",
     "chinese": "v. 下阵雨，使湿透",
     "syllables": [
-      "shower"
+      "sho",
+      "wer"
     ]
   },
   {
@@ -12506,8 +12687,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈnjuːməɹ.əbəl/",
     "chinese": "adj. 无数的，数不清的",
     "syllables": [
-      "in",
-      "numerable"
+      "innume",
+      "rable"
     ]
   },
   {
@@ -12682,7 +12863,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbætʃ.ə.lə(ɹ)/",
     "chinese": "n. 未婚男子；学士",
     "syllables": [
-      "bachelor"
+      "bac",
+      "he",
+      "lor"
     ]
   },
   {
@@ -12707,7 +12890,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlæt.ɪ.tjuːd/",
     "chinese": "n. 纬度；黄纬",
     "syllables": [
-      "latitude"
+      "lati",
+      "tu",
+      "de"
     ]
   },
   {
@@ -12715,7 +12900,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɑet.ə.mən/",
     "chinese": "n. 维生素，维他命",
     "syllables": [
-      "vitamin"
+      "vi",
+      "ta",
+      "min"
     ]
   },
   {
@@ -12823,7 +13010,8 @@ window.WORDS_EASY = [
     "chinese": "n. 微积分；结石",
     "syllables": [
       "cal",
-      "culus"
+      "cu",
+      "lus"
     ]
   },
   {
@@ -12995,7 +13183,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈeɪ.li.ən/",
     "chinese": "adj. 外国的 n. 外国人",
     "syllables": [
-      "alien"
+      "a",
+      "li",
+      "en"
     ]
   },
   {
@@ -13067,7 +13257,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɹəˈtaɪə(ɹ).mənt/",
     "chinese": "n. 退休，引退；退隐",
     "syllables": [
-      "retirement"
+      "retire",
+      "ment"
     ]
   },
   {
@@ -13167,7 +13358,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈliː.vɚ/",
     "chinese": "n. 途径，工具，手段",
     "syllables": [
-      "lever"
+      "le",
+      "ver"
     ]
   },
   {
@@ -13175,8 +13367,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈəʊvə(ɹ).teɪk/",
     "chinese": "v. 突然发生；压倒",
     "syllables": [
-      "over",
-      "take"
+      "overta",
+      "ke"
     ]
   },
   {
@@ -13316,7 +13508,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌhɒ.mə(ʊ)ˈdʒiː.nɪəs/",
     "chinese": "adj. 同类的",
     "syllables": [
-      "homogeneous"
+      "homoge",
+      "neous"
     ]
   },
   {
@@ -13349,7 +13542,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌpɒp.jəˈlæɹ.ɪ.ti/",
     "chinese": "n. 通俗性；普及，流行",
     "syllables": [
-      "popularity"
+      "po",
+      "pu",
+      "la",
+      "rity"
     ]
   },
   {
@@ -13366,8 +13562,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkʌɹ.ən.si/",
     "chinese": "n. 通货；货币",
     "syllables": [
-      "cur",
-      "rency"
+      "currency"
     ]
   },
   {
@@ -13478,7 +13673,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɑː.dʒə.ˌleɪt/",
     "chinese": "v. 调整，调节（声音）",
     "syllables": [
-      "modulate"
+      "modu",
+      "la",
+      "te"
     ]
   },
   {
@@ -13487,7 +13684,8 @@ window.WORDS_EASY = [
     "chinese": "n. 调停；（尤指拓荒者居住的）定居点，村落",
     "syllables": [
       "set",
-      "tlement"
+      "tle",
+      "ment"
     ]
   },
   {
@@ -13574,7 +13772,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɒm.ə.neɪt/",
     "chinese": "v. 提名，推荐；任命",
     "syllables": [
-      "nominate"
+      "nomi",
+      "na",
+      "te"
     ]
   },
   {
@@ -13591,7 +13791,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnʌɹ.ɪʃ/",
     "chinese": "v. 提供养分，养育",
     "syllables": [
-      "nourish"
+      "nou",
+      "rish"
     ]
   },
   {
@@ -13716,7 +13917,9 @@ window.WORDS_EASY = [
     "phonetic": "/nəˈɡəʊ.ʃi.eɪt/",
     "chinese": "v. 谈判，交涉，议定",
     "syllables": [
-      "negotiate"
+      "nego",
+      "tia",
+      "te"
     ]
   },
   {
@@ -13756,7 +13959,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɹɪ.vi.əl/",
     "chinese": "adj. 琐碎的；平常的",
     "syllables": [
-      "trivial"
+      "tri",
+      "vi",
+      "al"
     ]
   },
   {
@@ -13881,7 +14086,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɑn.dɹi/",
     "chinese": "n. 送洗衣店去洗的东西",
     "syllables": [
-      "laundry"
+      "la",
+      "undry"
     ]
   },
   {
@@ -14015,7 +14221,8 @@ window.WORDS_EASY = [
     "chinese": "n. 水牛；水陆坦克",
     "syllables": [
       "buf",
-      "falo"
+      "fa",
+      "lo"
     ]
   },
   {
@@ -14048,8 +14255,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛ.səl/",
     "chinese": "n. 摔交；斗争，搏斗",
     "syllables": [
-      "wrest",
-      "le"
+      "wres",
+      "tle"
     ]
   },
   {
@@ -14098,7 +14305,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹəˈfɪʃ.ənt/",
     "chinese": "adj. 熟练的，精通的",
     "syllables": [
-      "proficient"
+      "pro",
+      "ficient"
     ]
   },
   {
@@ -14175,8 +14383,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈdɒp.ʃən/",
     "chinese": "n. 收养；采纳，采取",
     "syllables": [
-      "adop",
-      "tion"
+      "a",
+      "doption"
     ]
   },
   {
@@ -14260,7 +14468,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɪ.ʒ(ə)n/",
     "chinese": "n. 视力；眼力，想象力",
     "syllables": [
-      "vision"
+      "vi",
+      "sion"
     ]
   },
   {
@@ -14563,7 +14772,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɪn.ə.maɪz/",
     "chinese": "v. 使减到最小",
     "syllables": [
-      "minimize"
+      "mini",
+      "mi",
+      "ze"
     ]
   },
   {
@@ -14571,8 +14782,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɪŋ.ɡəl/",
     "chinese": "vt. 使混合，混合起来",
     "syllables": [
-      "ming",
-      "le"
+      "min",
+      "gle"
     ]
   },
   {
@@ -14657,8 +14868,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtæŋ.ɡəl/",
     "chinese": "v. 使缠结，使纠缠",
     "syllables": [
-      "tang",
-      "le"
+      "tan",
+      "gle"
     ]
   },
   {
@@ -14682,7 +14893,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈstæb.lɪʃ/",
     "chinese": "v. 使…被接受",
     "syllables": [
-      "establish"
+      "estab",
+      "lish"
     ]
   },
   {
@@ -14690,7 +14902,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɛˈvɛ.ləp/",
     "chinese": "v. 使（底片）显影",
     "syllables": [
-      "develop"
+      "deve",
+      "lop"
     ]
   },
   {
@@ -14749,7 +14962,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌek.sɪˈkjuː.ʃən/",
     "chinese": "n. 实行，执行；处死刑",
     "syllables": [
-      "execution"
+      "exe",
+      "cution"
     ]
   },
   {
@@ -15247,7 +15461,9 @@ window.WORDS_EASY = [
     "phonetic": "/tɹaɪˈæŋ.ɡjə.lə/",
     "chinese": "adj. 三角的；三者间的",
     "syllables": [
-      "triangular"
+      "trian",
+      "gu",
+      "lar"
     ]
   },
   {
@@ -15439,7 +15655,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkwɑːn.tə.faɪ/",
     "chinese": "v. 确定…的数量",
     "syllables": [
-      "quan",
+      "qu",
+      "an",
       "tify"
     ]
   },
@@ -15582,7 +15799,8 @@ window.WORDS_EASY = [
     "phonetic": "/pəˈtɪ.ʃən/",
     "chinese": "n. 请愿 v. 向…请愿",
     "syllables": [
-      "petition"
+      "pe",
+      "tition"
     ]
   },
   {
@@ -15625,8 +15843,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪn.klɪˈneɪ.ʃən/",
     "chinese": "n. 倾斜，点头；斜坡",
     "syllables": [
-      "in",
-      "clination"
+      "incli",
+      "nation"
     ]
   },
   {
@@ -15659,8 +15877,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌæd.mɚˈeɪʃ.ən/",
     "chinese": "n. 钦佩；赞美，羡慕",
     "syllables": [
-      "ad",
-      "miration"
+      "admi",
+      "ration"
     ]
   },
   {
@@ -15779,7 +15997,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈviː.sə/",
     "chinese": "n. 签证",
     "syllables": [
-      "visa"
+      "vi",
+      "sa"
     ]
   },
   {
@@ -15803,7 +16022,8 @@ window.WORDS_EASY = [
     "phonetic": "/maɪ.ˈɡɹeɪt/",
     "chinese": "v. 迁移，移居",
     "syllables": [
-      "migrate"
+      "migra",
+      "te"
     ]
   },
   {
@@ -15980,7 +16200,9 @@ window.WORDS_EASY = [
     "chinese": "adv. 其后，其次，接着",
     "syllables": [
       "sub",
-      "sequently"
+      "se",
+      "qu",
+      "ently"
     ]
   },
   {
@@ -16038,8 +16260,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɹæk.tjə/",
     "chinese": "n. 破裂；裂痕 v. 破裂",
     "syllables": [
-      "frac",
-      "ture"
+      "fractu",
+      "re"
     ]
   },
   {
@@ -16190,8 +16412,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈdʒeɪ.sənt/",
     "chinese": "adj. 毗连的；紧接着的",
     "syllables": [
-      "ad",
-      "jacent"
+      "adja",
+      "cent"
     ]
   },
   {
@@ -16224,8 +16446,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈɡɹiːdi.ənt/",
     "chinese": "n. 配料，成分",
     "syllables": [
-      "ing",
-      "redient"
+      "in",
+      "gredient"
     ]
   },
   {
@@ -16308,7 +16530,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈhɒ.və(ɹ)/",
     "chinese": "v. 徘徊；傍徨；翱翔；盘旋",
     "syllables": [
-      "hover"
+      "ho",
+      "ver"
     ]
   },
   {
@@ -16349,8 +16572,8 @@ window.WORDS_EASY = [
     "phonetic": "/oʊ.vɚˈhɪɚ/",
     "chinese": "v. 偶然听到；偷听",
     "syllables": [
-      "over",
-      "hear"
+      "o",
+      "verhear"
     ]
   },
   {
@@ -16415,7 +16638,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪ.diˌeɪ.tɚ/",
     "chinese": "n. 暖气片；散热器",
     "syllables": [
-      "radiator"
+      "radia",
+      "tor"
     ]
   },
   {
@@ -16497,7 +16721,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɪk.əl/",
     "chinese": "n. 镍；镍币",
     "syllables": [
-      "nickel"
+      "nic",
+      "kel"
     ]
   },
   {
@@ -16514,7 +16739,8 @@ window.WORDS_EASY = [
     "chinese": "adv. 年年，每年",
     "syllables": [
       "an",
-      "nually"
+      "nu",
+      "ally"
     ]
   },
   {
@@ -16674,7 +16900,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈskaɪˌskɹeɪp.ə(ɹ)/",
     "chinese": "n. 摩天楼",
     "syllables": [
-      "skyscraper"
+      "skyscra",
+      "per"
     ]
   },
   {
@@ -16748,7 +16975,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 明显的，感觉得到的",
     "syllables": [
       "sen",
-      "sible"
+      "sib",
+      "le"
     ]
   },
   {
@@ -16817,8 +17045,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌɹɛp.ɹə.zɛn.ˈteɪ.ʃən/",
     "chinese": "n. 描写；陈述；代表",
     "syllables": [
-      "represen",
-      "tation"
+      "repre",
+      "sen",
+      "ta",
+      "tion"
     ]
   },
   {
@@ -16860,8 +17090,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌs(j)u.pə(ɹ)ˈstɪ.ʃn̩/",
     "chinese": "n. 迷信，迷信行为",
     "syllables": [
-      "super",
-      "stition"
+      "supers",
+      "tition"
     ]
   },
   {
@@ -16984,8 +17214,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɛkˈspaɪ.ə(ɹ)/",
     "chinese": "v. 满期，到期；断气",
     "syllables": [
-      "ex",
-      "pire"
+      "expi",
+      "re"
     ]
   },
   {
@@ -17092,7 +17322,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɪ.di.əʊ/",
     "chinese": "adj. 录像的",
     "syllables": [
-      "video"
+      "vi",
+      "de",
+      "o"
     ]
   },
   {
@@ -17216,8 +17448,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈʌð.əˌwaɪz/",
     "chinese": "adv. 另外；在其他方面",
     "syllables": [
-      "other",
-      "wise"
+      "otherwi",
+      "se"
     ]
   },
   {
@@ -17251,7 +17483,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈflɛk.sə.bəl/",
     "chinese": "adj. 灵活的，可变通的",
     "syllables": [
-      "flexible"
+      "fle",
+      "xib",
+      "le"
     ]
   },
   {
@@ -17388,8 +17622,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtʃɛs.nʌt/",
     "chinese": "n. 栗子；栗树；栗色",
     "syllables": [
-      "chest",
-      "nut"
+      "ches",
+      "tnut"
     ]
   },
   {
@@ -17422,7 +17656,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɛɹi.əʊ/",
     "chinese": "n. 立体声 adj. 立体声的",
     "syllables": [
-      "stereo"
+      "ste",
+      "reo"
     ]
   },
   {
@@ -17430,7 +17665,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkjuː.bɪk/",
     "chinese": "adj. 立方体的；立方的",
     "syllables": [
-      "cubic"
+      "cu",
+      "bic"
     ]
   },
   {
@@ -17660,7 +17896,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfjʊə.ɹɪəs/",
     "chinese": "adj. 狂暴的；强烈的",
     "syllables": [
-      "furious"
+      "fu",
+      "rious"
     ]
   },
   {
@@ -17767,7 +18004,8 @@ window.WORDS_EASY = [
     "phonetic": "/n(j)ʊˈmæ.tɪk/",
     "chinese": "adj. 空气的；气动的",
     "syllables": [
-      "pneumatic"
+      "pneuma",
+      "tic"
     ]
   },
   {
@@ -17775,7 +18013,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛː.ɹi.əl/",
     "chinese": "adj. 空气的；航空的",
     "syllables": [
-      "aerial"
+      "ae",
+      "rial"
     ]
   },
   {
@@ -17815,7 +18054,8 @@ window.WORDS_EASY = [
     "phonetic": "/səˈspɪ.ʃəs/",
     "chinese": "adj. 可疑的；猜疑的",
     "syllables": [
-      "suspicious"
+      "sus",
+      "picious"
     ]
   },
   {
@@ -17918,8 +18158,10 @@ window.WORDS_EASY = [
     "phonetic": "[ɹi.ˈspɛk.tə.bl̩]",
     "chinese": "adj. 可敬的；人格高尚的",
     "syllables": [
-      "respec",
-      "table"
+      "res",
+      "pec",
+      "tab",
+      "le"
     ]
   },
   {
@@ -18085,7 +18327,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsɒv.ɹɪn/",
     "chinese": "n. 君主 adj. 统治的",
     "syllables": [
-      "sovereign"
+      "so",
+      "vereign"
     ]
   },
   {
@@ -18159,8 +18402,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɒl.ɨ.mə/",
     "chinese": "n. 聚合物，多聚物",
     "syllables": [
-      "pol",
-      "ymer"
+      "polymer"
     ]
   },
   {
@@ -18487,7 +18729,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbɛə(ɹ).li/",
     "chinese": "adv. 勉强；仅仅",
     "syllables": [
-      "barely"
+      "ba",
+      "rely"
     ]
   },
   {
@@ -18504,7 +18747,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtjuː.nə/",
     "chinese": "n. 金枪鱼",
     "syllables": [
-      "tuna"
+      "tu",
+      "na"
     ]
   },
   {
@@ -18521,7 +18765,8 @@ window.WORDS_EASY = [
     "phonetic": "[ˈmas.təd]",
     "chinese": "n. 芥子，芥末",
     "syllables": [
-      "mustard"
+      "mus",
+      "tard"
     ]
   },
   {
@@ -18582,8 +18827,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˌbɹiː.viˈeɪ.ʃən/",
     "chinese": "n. 节略，缩写，缩短",
     "syllables": [
-      "ab",
-      "breviation"
+      "abbrevia",
+      "tion"
     ]
   },
   {
@@ -18632,8 +18877,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɪs.ɪˈluːʒən/",
     "chinese": "v. 觉醒，使觉醒",
     "syllables": [
-      "disil",
-      "lusion"
+      "disillu",
+      "sion"
     ]
   },
   {
@@ -18781,8 +19026,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtʃæl.əndʒ/",
     "chinese": "n. 艰巨任务",
     "syllables": [
-      "chal",
-      "lenge"
+      "challen",
+      "ge"
     ]
   },
   {
@@ -18790,7 +19035,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛ.zəˌl(j)uːt/",
     "chinese": "adj. 坚决的，果敢的",
     "syllables": [
-      "resolute"
+      "resolu",
+      "te"
     ]
   },
   {
@@ -19032,7 +19278,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌdɒk.jəˈmɛn.tɹi/",
     "chinese": "adj. 纪录的；文献的",
     "syllables": [
-      "documen",
+      "docu",
+      "men",
       "tary"
     ]
   },
@@ -19041,8 +19288,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɑːˌdʒɪn.əl/",
     "chinese": "adj. 边缘的；记在页边的",
     "syllables": [
-      "mar",
-      "ginal"
+      "margi",
+      "nal"
     ]
   },
   {
@@ -19083,7 +19330,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɡæ.ðə.ɹɪŋ/",
     "chinese": "n. 集会，聚会，聚集",
     "syllables": [
-      "gathering"
+      "gat",
+      "he",
+      "ring"
     ]
   },
   {
@@ -19168,7 +19417,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɹɑːs.tɪk/",
     "chinese": "adj. 激烈的；严厉的",
     "syllables": [
-      "drastic"
+      "dras",
+      "tic"
     ]
   },
   {
@@ -19227,7 +19477,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmʌs.kjə.lə/",
     "chinese": "adj. 肌肉发达的，强健的",
     "syllables": [
-      "muscular"
+      "mus",
+      "cu",
+      "lar"
     ]
   },
   {
@@ -19275,7 +19527,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɹeɪm.wɜːk/",
     "chinese": "n. 体制",
     "syllables": [
-      "framework"
+      "frame",
+      "work"
     ]
   },
   {
@@ -19348,7 +19601,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈɡeɪd͡ʒ.mənt/",
     "chinese": "n. 婚约；约会",
     "syllables": [
-      "engagement"
+      "engage",
+      "ment"
     ]
   },
   {
@@ -19399,7 +19653,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈləʊ.kəst/",
     "chinese": "n. 蝗虫",
     "syllables": [
-      "locust"
+      "lo",
+      "cust"
     ]
   },
   {
@@ -19491,7 +19746,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɡɹæ.nɪt/",
     "chinese": "adj. 花岗岩，花岗石",
     "syllables": [
-      "granite"
+      "grani",
+      "te"
     ]
   },
   {
@@ -19609,7 +19865,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹɔp.ə/",
     "chinese": "adj. 合乎体统的，正派的",
     "syllables": [
-      "proper"
+      "pro",
+      "per"
     ]
   },
   {
@@ -19669,7 +19926,10 @@ window.WORDS_EASY = [
     "phonetic": "/hɒs.pɪˈtæl.ɪ.ti/",
     "chinese": "n. 好客，殷勤",
     "syllables": [
-      "hospitality"
+      "hos",
+      "pi",
+      "ta",
+      "lity"
     ]
   },
   {
@@ -19776,7 +20036,8 @@ window.WORDS_EASY = [
     "phonetic": "/keɪ.bl/",
     "chinese": "n. 电缆",
     "syllables": [
-      "cable"
+      "cab",
+      "le"
     ]
   },
   {
@@ -19934,7 +20195,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹəˈvɪʒ.ən/",
     "chinese": "n. 规定，条款，条项",
     "syllables": [
-      "provision"
+      "pro",
+      "vision"
     ]
   },
   {
@@ -19958,8 +20220,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæm.plɪ.tud/",
     "chinese": "n. 振幅；广大；充足",
     "syllables": [
-      "am",
-      "plitude"
+      "ampli",
+      "tu",
+      "de"
     ]
   },
   {
@@ -19967,7 +20230,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪdi.əl/",
     "chinese": "adj. 放射状的",
     "syllables": [
-      "radial"
+      "ra",
+      "dial"
     ]
   },
   {
@@ -20010,8 +20274,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈɝ.ʃə/",
     "chinese": "n. 惯性；无力",
     "syllables": [
-      "iner",
-      "tia"
+      "i",
+      "nertia"
     ]
   },
   {
@@ -20069,8 +20333,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɒb.stɪ.nət/",
     "chinese": "adj. 固执的；顽强的",
     "syllables": [
-      "ob",
-      "stinate"
+      "obsti",
+      "na",
+      "te"
     ]
   },
   {
@@ -20204,8 +20469,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈməː.kjʊ.ɹi/",
     "chinese": "n. 汞，水银",
     "syllables": [
-      "mer",
-      "cury"
+      "mercury"
     ]
   },
   {
@@ -20318,7 +20582,9 @@ window.WORDS_EASY = [
     "chinese": "n. 隔离者；绝缘体",
     "syllables": [
       "in",
-      "sulator"
+      "su",
+      "la",
+      "tor"
     ]
   },
   {
@@ -20326,8 +20592,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlæt.ɪs/",
     "chinese": "n. 格子结构",
     "syllables": [
-      "lat",
-      "tice"
+      "latti",
+      "ce"
     ]
   },
   {
@@ -20367,7 +20633,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtaʊ.ə(ɹ)/",
     "chinese": "v. 高耸，屹立；翱翔",
     "syllables": [
-      "tower"
+      "to",
+      "wer"
     ]
   },
   {
@@ -20400,7 +20667,8 @@ window.WORDS_EASY = [
     "chinese": "n. 感情；情绪",
     "syllables": [
       "sen",
-      "timent"
+      "ti",
+      "ment"
     ]
   },
   {
@@ -20417,8 +20685,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈθæŋksˌɡɪv.ɪŋ/",
     "chinese": "n. 感恩节",
     "syllables": [
-      "than",
-      "ksgiving"
+      "thanksgi",
+      "ving"
     ]
   },
   {
@@ -20485,7 +20753,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdjuː.plɪ.kət/",
     "chinese": "n. 复制品 v. 复制",
     "syllables": [
-      "duplicate"
+      "dupli",
+      "ca",
+      "te"
     ]
   },
   {
@@ -20503,7 +20773,8 @@ window.WORDS_EASY = [
     "chinese": "n. 复杂（性）",
     "syllables": [
       "com",
-      "plexity"
+      "ple",
+      "xity"
     ]
   },
   {
@@ -20564,7 +20835,9 @@ window.WORDS_EASY = [
     "chinese": "adj. 辅助的，补充的",
     "syllables": [
       "sub",
-      "sidiary"
+      "si",
+      "di",
+      "ary"
     ]
   },
   {
@@ -20623,7 +20896,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɪˈnaɪ.əl/",
     "chinese": "n. 否定；拒绝相信",
     "syllables": [
-      "denial"
+      "de",
+      "nial"
     ]
   },
   {
@@ -20870,7 +21144,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌɹi.pɹoʊˈdjus/",
     "chinese": "v. 仿造",
     "syllables": [
-      "reproduce"
+      "reprodu",
+      "ce"
     ]
   },
   {
@@ -21040,7 +21315,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒɛn.əɹ.eɪt/",
     "chinese": "v. 发生，产生；生成",
     "syllables": [
-      "generate"
+      "gene",
+      "ra",
+      "te"
     ]
   },
   {
@@ -21190,8 +21467,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnaɪt.mɛə/",
     "chinese": "n. 恶梦；经常的恐惧",
     "syllables": [
-      "nig",
-      "htmare"
+      "nightma",
+      "re"
     ]
   },
   {
@@ -21350,7 +21627,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkʊk.uː/",
     "chinese": "n. 杜鹃，布谷鸟",
     "syllables": [
-      "cuckoo"
+      "cuc",
+      "koo"
     ]
   },
   {
@@ -21383,7 +21661,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsoʊ.loʊ/",
     "chinese": "n. 独唱，独奏；独唱曲",
     "syllables": [
-      "solo"
+      "so",
+      "lo"
     ]
   },
   {
@@ -21483,7 +21762,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɔː.ɹɪ.ənt/",
     "chinese": "n. 东方；亚洲，远东",
     "syllables": [
-      "orient"
+      "o",
+      "ri",
+      "ent"
     ]
   },
   {
@@ -21499,7 +21780,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈθiː.ə.ɹəm/",
     "chinese": "n. 定理；原理，原则",
     "syllables": [
-      "theorem"
+      "the",
+      "o",
+      "rem"
     ]
   },
   {
@@ -21543,8 +21826,8 @@ window.WORDS_EASY = [
     "phonetic": "[ˈpɹɛʃ.ə(ɹ)]",
     "chinese": "n. 大气压力",
     "syllables": [
-      "pres",
-      "sure"
+      "pressu",
+      "re"
     ]
   },
   {
@@ -21569,8 +21852,8 @@ window.WORDS_EASY = [
     "phonetic": "/iˈlɛk.tɹəʊd/",
     "chinese": "n. 电极；电焊条",
     "syllables": [
-      "elec",
-      "trode"
+      "electro",
+      "de"
     ]
   },
   {
@@ -21637,8 +21920,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɔː.ɡɪdʒ/",
     "chinese": "n. 抵押贷款 v. 抵押",
     "syllables": [
-      "mor",
-      "tgage"
+      "mortga",
+      "ge"
     ]
   },
   {
@@ -21662,8 +21945,9 @@ window.WORDS_EASY = [
     "phonetic": "/ʌndɚˈɛs.tɨ.meɪt/",
     "chinese": "v. 低估，看轻",
     "syllables": [
-      "un",
-      "derestimate"
+      "underes",
+      "tima",
+      "te"
     ]
   },
   {
@@ -21799,7 +22083,8 @@ window.WORDS_EASY = [
     "chinese": "n. 代数学",
     "syllables": [
       "al",
-      "gebra"
+      "geb",
+      "ra"
     ]
   },
   {
@@ -21851,7 +22136,8 @@ window.WORDS_EASY = [
     "chinese": "n. 大屠杀，残杀",
     "syllables": [
       "mas",
-      "sacre"
+      "sac",
+      "re"
     ]
   },
   {
@@ -22021,7 +22307,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈleɪ.tənt/",
     "chinese": "adj. 存在但看不见的",
     "syllables": [
-      "latent"
+      "la",
+      "tent"
     ]
   },
   {
@@ -22087,8 +22374,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmæs.ɪv/",
     "chinese": "adj. 粗大的；大而重的",
     "syllables": [
-      "mas",
-      "sive"
+      "massi",
+      "ve"
     ]
   },
   {
@@ -22104,8 +22391,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒʌŋ.ɡ(ə)l/",
     "chinese": "n. 丛林，密林，莽丛",
     "syllables": [
-      "jung",
-      "le"
+      "jun",
+      "gle"
     ]
   },
   {
@@ -22157,7 +22444,8 @@ window.WORDS_EASY = [
     "chinese": "n. 磁；魅力",
     "syllables": [
       "mag",
-      "netism"
+      "ne",
+      "tism"
     ]
   },
   {
@@ -22241,7 +22529,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɔː.θə/",
     "chinese": "n. 创造者，创始人",
     "syllables": [
-      "author"
+      "aut",
+      "hor"
     ]
   },
   {
@@ -22327,7 +22616,8 @@ window.WORDS_EASY = [
     "chinese": "n. 传单，通报，通函",
     "syllables": [
       "cir",
-      "cular"
+      "cu",
+      "lar"
     ]
   },
   {
@@ -22386,8 +22676,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪkˈsklu.sɪv/",
     "chinese": "adj. 除外的",
     "syllables": [
-      "ex",
-      "clusive"
+      "exclusi",
+      "ve"
     ]
   },
   {
@@ -22461,7 +22751,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈkweɪ.tə/",
     "chinese": "n. 赤道，天球赤道",
     "syllables": [
-      "equator"
+      "equa",
+      "tor"
     ]
   },
   {
@@ -22546,7 +22837,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsɪs.təˈmæt.ɪk/",
     "chinese": "adj. 成体系的",
     "syllables": [
-      "systematic"
+      "syste",
+      "ma",
+      "tic"
     ]
   },
   {
@@ -22721,7 +23014,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɹiː.kwənt/",
     "chinese": "adj. 常见的；频繁的",
     "syllables": [
-      "frequent"
+      "fre",
+      "quent"
     ]
   },
   {
@@ -22862,7 +23156,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsɛn.ə.tə/",
     "chinese": "n. 参议员",
     "syllables": [
-      "senator"
+      "se",
+      "na",
+      "tor"
     ]
   },
   {
@@ -22897,7 +23193,9 @@ window.WORDS_EASY = [
     "phonetic": "/pəˈɹæm.ɪ.tə/",
     "chinese": "n. 参（变）数；参量",
     "syllables": [
-      "parameter"
+      "para",
+      "me",
+      "ter"
     ]
   },
   {
@@ -22905,7 +23203,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛs.ə.pi/",
     "chinese": "n. 菜谱，烹饪法",
     "syllables": [
-      "recipe"
+      "re",
+      "ci",
+      "pe"
     ]
   },
   {
@@ -22999,8 +23299,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪmˈpɹɔp.ə/",
     "chinese": "adj. 不适当的；不合理的",
     "syllables": [
-      "im",
-      "proper"
+      "impro",
+      "per"
     ]
   },
   {
@@ -23008,7 +23308,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwɑː.tɚ.taɪt/",
     "chinese": "adj. 不漏水的，防水的",
     "syllables": [
-      "water",
+      "wa",
+      "ter",
       "tight"
     ]
   },
@@ -23026,7 +23327,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 不精密的，不准确的",
     "syllables": [
       "inac",
-      "curate"
+      "cura",
+      "te"
     ]
   },
   {
@@ -23070,8 +23372,7 @@ window.WORDS_EASY = [
     "phonetic": "/ɪ.ˌrɛ.ɡjə.ˈlæ.rə.ti/",
     "chinese": "n. 不规则；不整齐",
     "syllables": [
-      "ir",
-      "regularity"
+      "irregularity"
     ]
   },
   {
@@ -23106,7 +23407,9 @@ window.WORDS_EASY = [
     "chinese": "adv. 不变地，永恒地",
     "syllables": [
       "in",
-      "variably"
+      "va",
+      "ri",
+      "ably"
     ]
   },
   {
@@ -23149,7 +23452,9 @@ window.WORDS_EASY = [
     "phonetic": "/hjʊˌmæ.nɪˈtɛː.ɹɪ.ən/",
     "chinese": "adj. 博爱的 n. 慈善家",
     "syllables": [
-      "humanitarian"
+      "huma",
+      "nita",
+      "rian"
     ]
   },
   {
@@ -23184,8 +23489,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈvæl.ɪd/",
     "chinese": "n. 病人",
     "syllables": [
-      "in",
-      "valid"
+      "inva",
+      "lid"
     ]
   },
   {
@@ -23244,7 +23549,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmæn.ə.fɛst/",
     "chinese": "v. 表明 adj. 明显的",
     "syllables": [
-      "manifest"
+      "ma",
+      "ni",
+      "fest"
     ]
   },
   {
@@ -23269,7 +23576,8 @@ window.WORDS_EASY = [
     "phonetic": "/kɹaɪˈtɪəɹi.ən/",
     "chinese": "n. 标准，准则，尺度",
     "syllables": [
-      "criterion"
+      "cri",
+      "terion"
     ]
   },
   {
@@ -23285,7 +23593,8 @@ window.WORDS_EASY = [
     "phonetic": "[ˈhɛɾ.ɪŋ]",
     "chinese": "n. 标题，题词，题名",
     "syllables": [
-      "heading"
+      "hea",
+      "ding"
     ]
   },
   {
@@ -23301,8 +23610,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæd.və.keɪt/",
     "chinese": "v. 拥护 n. 辩护律师",
     "syllables": [
-      "ad",
-      "vocate"
+      "advo",
+      "ca",
+      "te"
     ]
   },
   {
@@ -23336,8 +23646,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɒl.tə(ɹ)ˈeɪ.ʃən/",
     "chinese": "n. 变更，改变",
     "syllables": [
-      "al",
-      "teration"
+      "alte",
+      "ration"
     ]
   },
   {
@@ -23402,7 +23712,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpeɪ.tɹən/",
     "chinese": "n. 庇护人；赞助人",
     "syllables": [
-      "patron"
+      "pat",
+      "ron"
     ]
   },
   {
@@ -23672,7 +23983,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbeɪs.bɔːl/",
     "chinese": "n. 棒球运动；棒球",
     "syllables": [
-      "baseball"
+      "base",
+      "ball"
     ]
   },
   {
@@ -23689,7 +24001,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪ.di.əs/",
     "chinese": "n. 半径距离，半径范围",
     "syllables": [
-      "radius"
+      "ra",
+      "di",
+      "us"
     ]
   },
   {
@@ -23755,8 +24069,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌmɪl.i.əˈnɛə(ɹ)/",
     "chinese": "n. 百分富翁，巨富",
     "syllables": [
-      "mil",
-      "lionaire"
+      "millio",
+      "nai",
+      "re"
     ]
   },
   {
@@ -23780,7 +24095,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɪd.i.(j)ɪt/",
     "chinese": "n. 白痴；傻子",
     "syllables": [
-      "idiot"
+      "i",
+      "di",
+      "ot"
     ]
   },
   {
@@ -23812,8 +24129,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsʌb.dɪˈvaɪd/",
     "chinese": "v. 把…再分",
     "syllables": [
-      "sub",
-      "divide"
+      "subdivi",
+      "de"
     ]
   },
   {
@@ -23898,7 +24215,8 @@ window.WORDS_EASY = [
     "phonetic": "/lʌkˈsjʊɹ.i.əs/",
     "chinese": "adj. 爱好奢侈的，豪华的",
     "syllables": [
-      "luxurious"
+      "luxu",
+      "rious"
     ]
   },
   {
@@ -23906,7 +24224,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpeɪ.tɹi.ət/",
     "chinese": "n. 爱国者，爱国主义者",
     "syllables": [
-      "patriot"
+      "pat",
+      "ri",
+      "ot"
     ]
   },
   {
@@ -23914,7 +24234,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpeɪ.tɹi.ɒ.tɪk/",
     "chinese": "adj. 爱国的",
     "syllables": [
-      "patriotic"
+      "pat",
+      "ri",
+      "o",
+      "tic"
     ]
   },
   {
@@ -23988,7 +24311,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌɹɛf.əˈɹiː/",
     "chinese": "n. （足球等）裁判员",
     "syllables": [
-      "referee"
+      "re",
+      "feree"
     ]
   },
   {
@@ -24178,7 +24502,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdiːvi.ət/",
     "chinese": "v. （使）背离，偏离",
     "syllables": [
-      "deviate"
+      "devia",
+      "te"
     ]
   },
   {
@@ -24360,7 +24685,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmeʒ.ə.mənt/",
     "chinese": "n. （量得的）尺寸，大小",
     "syllables": [
-      "measurement"
+      "mea",
+      "sure",
+      "ment"
     ]
   },
   {
@@ -24392,7 +24719,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛl.ə.ɡənt/",
     "chinese": "adj. （举止、服饰等）雅致的",
     "syllables": [
-      "elegant"
+      "e",
+      "le",
+      "gant"
     ]
   },
   {
@@ -24425,7 +24754,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒɛs.tʃɚ/",
     "chinese": "v. （讲话时等）做手势",
     "syllables": [
-      "gesture"
+      "gestu",
+      "re"
     ]
   },
   {
@@ -24874,7 +25204,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹaɪ.ət/",
     "chinese": "n. 骚乱，暴乱 v. 发动骚乱",
     "syllables": [
-      "riot"
+      "ri",
+      "ot"
     ]
   },
   {
@@ -24933,7 +25264,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈzɛ.ɹɒks/",
     "chinese": "v. 用静电复印",
     "syllables": [
-      "xerox"
+      "xe",
+      "rox"
     ]
   },
   {
@@ -25000,8 +25332,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈdɛv.ə/",
     "chinese": "v. 努力，尽力 n. 努力，尝试",
     "syllables": [
-      "en",
-      "deavor"
+      "endea",
+      "vor"
     ]
   },
   {
@@ -25173,8 +25505,8 @@ window.WORDS_EASY = [
     "phonetic": "/spɒnˈteɪ.ni.əs/",
     "chinese": "adj. 自发的， 无意识的； 自然的， 天真率直的",
     "syllables": [
-      "spon",
-      "taneous"
+      "sponta",
+      "neous"
     ]
   },
   {
@@ -25557,7 +25889,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈplɔːz.ə.bəl/",
     "chinese": "adj. 似有道理的， 似乎正确的， 貌似可信的",
     "syllables": [
-      "plausible"
+      "plau",
+      "sib",
+      "le"
     ]
   },
   {
@@ -25565,7 +25899,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈkweɪ.tə/",
     "chinese": "n. 赤道",
     "syllables": [
-      "equator"
+      "equa",
+      "tor"
     ]
   },
   {
@@ -25615,7 +25950,9 @@ window.WORDS_EASY = [
     "phonetic": "/pɹəˈvɒk.ə.tɪv/",
     "chinese": "adj. 挑衅的， 煽动的， 刺激的； 挑逗的",
     "syllables": [
-      "provocative"
+      "provo",
+      "cati",
+      "ve"
     ]
   },
   {
@@ -25683,8 +26020,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪmˈpɪ.ɹi.əl/",
     "chinese": "adj. 帝国的， 帝王的； 英制的",
     "syllables": [
-      "im",
-      "perial"
+      "impe",
+      "rial"
     ]
   },
   {
@@ -25776,7 +26113,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɛd.li/",
     "chinese": "adv. 非常， 极度地 adj. 致死的，致命的；不共戴天的；极度的，十足的",
     "syllables": [
-      "deadly"
+      "de",
+      "adly"
     ]
   },
   {
@@ -25981,7 +26319,8 @@ window.WORDS_EASY = [
     "phonetic": "[ˈfeɪ.ɾɫ̩]",
     "chinese": "adj. 致命的， 灾难性的， 毁灭性的； 重大的， 决定性的",
     "syllables": [
-      "fatal"
+      "fa",
+      "tal"
     ]
   },
   {
@@ -26006,8 +26345,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛ.səl/",
     "chinese": "n. 摔跤； 斗争， 搏斗",
     "syllables": [
-      "wrest",
-      "le"
+      "wres",
+      "tle"
     ]
   },
   {
@@ -26023,8 +26362,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɑːˌdʒɪn.əl/",
     "chinese": "adj. 微小的， 少量的； 不重要的； 仅以微弱多数票获胜的； 记在页边的， 有旁注的",
     "syllables": [
-      "mar",
-      "ginal"
+      "margi",
+      "nal"
     ]
   },
   {
@@ -26197,7 +26536,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfəʊ.kəs/",
     "chinese": "v. 聚焦；集中 n. 焦点， 中心",
     "syllables": [
-      "focus"
+      "fo",
+      "cus"
     ]
   },
   {
@@ -26316,7 +26656,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 热情友好的， 热诚的",
     "syllables": [
       "cor",
-      "dial"
+      "di",
+      "al"
     ]
   },
   {
@@ -26510,8 +26851,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪmˈpɛɹ.ə.tɪv/",
     "chinese": "adj. 必要的；紧急的，极重要的；命令的 n. 必要的事， 必须完成的事； 【语】祈使语气",
     "syllables": [
-      "im",
-      "perative"
+      "impe",
+      "rati",
+      "ve"
     ]
   },
   {
@@ -26561,7 +26903,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɪn.i.ə/",
     "chinese": "adj. 线的， 直线的， 线状的； 长度的； 线性的",
     "syllables": [
-      "linear"
+      "li",
+      "ne",
+      "ar"
     ]
   },
   {
@@ -26636,7 +26980,8 @@ window.WORDS_EASY = [
     "chinese": "n. 送信人， 信使",
     "syllables": [
       "mes",
-      "senger"
+      "sen",
+      "ger"
     ]
   },
   {
@@ -26652,8 +26997,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈen.tɪ.ti/",
     "chinese": "n. 实体， 独立存在体， 实际存在物",
     "syllables": [
-      "en",
-      "tity"
+      "entity"
     ]
   },
   {
@@ -26669,8 +27013,8 @@ window.WORDS_EASY = [
     "phonetic": "/bækˈtɪəɹ.ɪ.ə/",
     "chinese": "n. 细菌",
     "syllables": [
-      "bac",
-      "teria"
+      "bacte",
+      "ria"
     ]
   },
   {
@@ -26736,8 +27080,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈsəʊsi.ət/",
     "chinese": "v. 把…联系在一起；使联合，结合；交往\t[ə'səuʃiət] adj. 副的 n. 伙伴，同事",
     "syllables": [
-      "as",
-      "sociate"
+      "associa",
+      "te"
     ]
   },
   {
@@ -26871,7 +27215,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɪ.tʃu.əl/",
     "chinese": "adj. 作为仪式一部分的； 例行的 n. 仪式；例行公事，老规矩",
     "syllables": [
-      "ritual"
+      "ri",
+      "tu",
+      "al"
     ]
   },
   {
@@ -26895,7 +27241,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpeɪ.tɹi.ət/",
     "chinese": "n. 爱国者， 爱国主义者",
     "syllables": [
-      "patriot"
+      "pat",
+      "ri",
+      "ot"
     ]
   },
   {
@@ -26927,7 +27275,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsɛn.ə.tə/",
     "chinese": "n. 参议员",
     "syllables": [
-      "senator"
+      "se",
+      "na",
+      "tor"
     ]
   },
   {
@@ -26935,7 +27285,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkwɑːn.tə.faɪ/",
     "chinese": "vt. 确定…的数量， 量化",
     "syllables": [
-      "quan",
+      "qu",
+      "an",
       "tify"
     ]
   },
@@ -26961,7 +27312,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɑb.ləˈɡeɪ.ʃən/",
     "chinese": "n. 义务， 责任",
     "syllables": [
-      "obligation"
+      "obli",
+      "gation"
     ]
   },
   {
@@ -27019,7 +27371,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpeɪ.tɹi.ɒ.tɪk/",
     "chinese": "adj. 爱国的， 有爱国心的， 显示爱国精神的",
     "syllables": [
-      "patriotic"
+      "pat",
+      "ri",
+      "o",
+      "tic"
     ]
   },
   {
@@ -27215,7 +27570,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɔː.məʊst/",
     "chinese": "adj. 最好的， 最著名的， 最重要的",
     "syllables": [
-      "foremost"
+      "fore",
+      "most"
     ]
   },
   {
@@ -27300,7 +27656,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsteɪ.bəɫ/",
     "chinese": "adj. 稳定的，不变的；沉稳的，持重的 n. 厩， 马厩， 牛棚",
     "syllables": [
-      "stable"
+      "stab",
+      "le"
     ]
   },
   {
@@ -27342,7 +27699,8 @@ window.WORDS_EASY = [
     "chinese": "n. 发生的事， 事件",
     "syllables": [
       "in",
-      "cident"
+      "ci",
+      "dent"
     ]
   },
   {
@@ -27450,8 +27808,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɹæk.tjə/",
     "chinese": "v. 断裂，折断 n. 裂缝， 裂痕； 折断",
     "syllables": [
-      "frac",
-      "ture"
+      "fractu",
+      "re"
     ]
   },
   {
@@ -27673,8 +28031,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɛ.ɹi.əˌtaɪp/",
     "chinese": "n. 陈规，老套，固定的模式 vt. 对…形成固定看法",
     "syllables": [
-      "stereot",
-      "ype"
+      "stereoty",
+      "pe"
     ]
   },
   {
@@ -27739,8 +28097,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈdɪk.ə.tɪv/",
     "chinese": "adj. 标示的，指示的，象征的；陈述的 n. 【语】陈述语气",
     "syllables": [
-      "in",
-      "dicative"
+      "indi",
+      "cati",
+      "ve"
     ]
   },
   {
@@ -27781,7 +28140,8 @@ window.WORDS_EASY = [
     "chinese": "n. 意外， 事故",
     "syllables": [
       "ac",
-      "cident"
+      "ci",
+      "dent"
     ]
   },
   {
@@ -27891,8 +28251,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈɡɹiːdi.ənt/",
     "chinese": "n. 组成部分， 原料； 要素",
     "syllables": [
-      "ing",
-      "redient"
+      "in",
+      "gredient"
     ]
   },
   {
@@ -27935,8 +28295,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɪn.tɪ.mət/",
     "chinese": "adj. 亲密的，个人的 n. 至交， 密友 vt. 暗示， 提示",
     "syllables": [
-      "in",
-      "timate"
+      "inti",
+      "ma",
+      "te"
     ]
   },
   {
@@ -28026,7 +28387,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹɒs.p(ə.)ɹəs/",
     "chinese": "adj. 繁荣的， 兴旺的",
     "syllables": [
-      "prosperous"
+      "prospe",
+      "rous"
     ]
   },
   {
@@ -28051,7 +28413,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkæ.bɪ.nɪt/",
     "chinese": "n. 橱， 柜； 内阁",
     "syllables": [
-      "cabinet"
+      "ca",
+      "bi",
+      "net"
     ]
   },
   {
@@ -28102,7 +28466,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtiː.dɪəs/",
     "chinese": "adj. 冗长乏味的， 沉闷的",
     "syllables": [
-      "tedious"
+      "te",
+      "dious"
     ]
   },
   {
@@ -28236,7 +28601,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪdi.ət/",
     "chinese": "v. 发出， 辐射； 流露， 显示",
     "syllables": [
-      "radiate"
+      "radia",
+      "te"
     ]
   },
   {
@@ -28244,7 +28610,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɡɪ.vən/",
     "chinese": "adj. 规定的，特定的；假设的，已知的；有癖好的，有倾向的 prep. 考虑到",
     "syllables": [
-      "given"
+      "gi",
+      "ven"
     ]
   },
   {
@@ -28260,7 +28627,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpæs.taɪm/",
     "chinese": "n. 消遣， 娱乐",
     "syllables": [
-      "pastime"
+      "pasti",
+      "me"
     ]
   },
   {
@@ -28326,7 +28694,9 @@ window.WORDS_EASY = [
     "phonetic": "/pɹɑkˈsɪ.mɪ.ti/",
     "chinese": "n. 接近， 邻近",
     "syllables": [
-      "proximity"
+      "pro",
+      "xi",
+      "mity"
     ]
   },
   {
@@ -28434,7 +28804,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɪˈzæs.tə/",
     "chinese": "n. 灾难， 灾祸， 天灾； 彻底的失败",
     "syllables": [
-      "disaster"
+      "disas",
+      "ter"
     ]
   },
   {
@@ -28484,7 +28855,8 @@ window.WORDS_EASY = [
     "phonetic": "/sə.ˈspɪ.ʃən/",
     "chinese": "n. 怀疑， 疑心， 猜疑； 一点儿， 少量",
     "syllables": [
-      "suspicion"
+      "suspi",
+      "cion"
     ]
   },
   {
@@ -28557,7 +28929,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɹəˈsɪp.i.ənt/",
     "chinese": "n. 接受者， 接收者",
     "syllables": [
-      "recipient"
+      "reci",
+      "pient"
     ]
   },
   {
@@ -28624,7 +28997,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹɛ.mɪs/",
     "chinese": "n. 房屋和地基， 经营场址； 前提， 假设",
     "syllables": [
-      "premise"
+      "premi",
+      "se"
     ]
   },
   {
@@ -28658,7 +29032,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɛ.nənt/",
     "chinese": "n. 房客， 佃户",
     "syllables": [
-      "tenant"
+      "te",
+      "nant"
     ]
   },
   {
@@ -28775,8 +29150,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæl.ə.keɪt/",
     "chinese": "vt. 分配； 分派， 把…拨给",
     "syllables": [
-      "al",
-      "locate"
+      "allo",
+      "ca",
+      "te"
     ]
   },
   {
@@ -28784,7 +29160,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈleɪ.tənt/",
     "chinese": "adj. 潜在的， 隐伏的， 不易察觉的",
     "syllables": [
-      "latent"
+      "la",
+      "tent"
     ]
   },
   {
@@ -28869,7 +29246,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈeɪ.li.ən/",
     "chinese": "adj. 外国的，外国人的；陌生的；性质不同的，不相容的 n. 外国人， 外侨； 外星人",
     "syllables": [
-      "alien"
+      "a",
+      "li",
+      "en"
     ]
   },
   {
@@ -29164,7 +29543,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbɛə(ɹ).li/",
     "chinese": "adv. 仅仅， 只不过， 几乎不",
     "syllables": [
-      "barely"
+      "ba",
+      "rely"
     ]
   },
   {
@@ -29256,8 +29636,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌpɛ.səˈmɪs.tɪk/",
     "chinese": "adj. 悲观的",
     "syllables": [
-      "pes",
-      "simistic"
+      "pessi",
+      "mis",
+      "tic"
     ]
   },
   {
@@ -29342,8 +29723,9 @@ window.WORDS_EASY = [
     "phonetic": "/ə.ˈkʌs.təmd/",
     "chinese": "adj. 惯常的， 习惯的",
     "syllables": [
-      "ac",
-      "customed"
+      "accus",
+      "to",
+      "med"
     ]
   },
   {
@@ -29409,8 +29791,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwɜːk.ʃɒp/",
     "chinese": "n. 车间， 工场； 专题讨论会",
     "syllables": [
-      "wor",
-      "kshop"
+      "work",
+      "shop"
     ]
   },
   {
@@ -29528,7 +29910,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪdi.ənt/",
     "chinese": "adj. 容光焕发的， 喜形于色的； 光芒四射的， 光辉灿烂的； 辐射的",
     "syllables": [
-      "radiant"
+      "ra",
+      "diant"
     ]
   },
   {
@@ -29681,8 +30064,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈpɑːt.mənt/",
     "chinese": "n. 一套公寓房间",
     "syllables": [
-      "apar",
-      "tment"
+      "apart",
+      "ment"
     ]
   },
   {
@@ -29750,7 +30133,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkwɒl.ɪ.tə.tɪv/",
     "chinese": "adj. 性质的， 定性的",
     "syllables": [
-      "qualitative"
+      "qua",
+      "lita",
+      "ti",
+      "ve"
     ]
   },
   {
@@ -29834,7 +30220,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtʃæ.pəl/",
     "chinese": "n. 小教堂， 祈祷室",
     "syllables": [
-      "chapel"
+      "cha",
+      "pel"
     ]
   },
   {
@@ -29851,7 +30238,9 @@ window.WORDS_EASY = [
     "chinese": "adj. 辅助的，次要的，附设的 n. 子公司， 附属机构",
     "syllables": [
       "sub",
-      "sidiary"
+      "si",
+      "di",
+      "ary"
     ]
   },
   {
@@ -29859,8 +30248,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɛn.t͡ʃə/",
     "chinese": "vi. 冒险； 大胆行事 n. 风险投资，风险项目 vt. 拿…冒险；敢于",
     "syllables": [
-      "ven",
-      "ture"
+      "ventu",
+      "re"
     ]
   },
   {
@@ -29885,7 +30274,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈflɛk.sə.bəl/",
     "chinese": "adj. 易弯曲的； 灵活的",
     "syllables": [
-      "flexible"
+      "fle",
+      "xib",
+      "le"
     ]
   },
   {
@@ -29937,7 +30328,9 @@ window.WORDS_EASY = [
     "phonetic": "[ˈɹɛl.ə.tʰɪv]",
     "chinese": "adj. 有关系的，相对的 n. 亲属， 亲戚",
     "syllables": [
-      "relative"
+      "rela",
+      "ti",
+      "ve"
     ]
   },
   {
@@ -30037,7 +30430,8 @@ window.WORDS_EASY = [
     "phonetic": "/mɪd.ˈiː.vəl/",
     "chinese": "adj. 中世纪的； 中古的",
     "syllables": [
-      "medieval"
+      "medie",
+      "val"
     ]
   },
   {
@@ -30062,7 +30456,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwɑː.tɚ.taɪt/",
     "chinese": "adj. 不透水的， 防水的； 严密的， 无懈可击的",
     "syllables": [
-      "water",
+      "wa",
+      "ter",
       "tight"
     ]
   },
@@ -30097,7 +30492,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsɪə.ɹiːz/",
     "chinese": "n. 一系列， 连续； 丛书， 连续剧",
     "syllables": [
-      "series"
+      "se",
+      "ries"
     ]
   },
   {
@@ -30154,7 +30550,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɹɛp.ɹɪ.ˈzɛnt/",
     "chinese": "vt. 作为…的代表， 表示， 象征； 描绘， 表现",
     "syllables": [
-      "represent"
+      "rep",
+      "re",
+      "sent"
     ]
   },
   {
@@ -30171,8 +30569,8 @@ window.WORDS_EASY = [
     "phonetic": "/kəm.ˈpiːt/",
     "chinese": "vi. 比赛， 竞争， 对抗",
     "syllables": [
-      "com",
-      "pete"
+      "compe",
+      "te"
     ]
   },
   {
@@ -30196,7 +30594,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈmɝ.dʒən.si/",
     "chinese": "n. 紧急情况， 突然事件",
     "syllables": [
-      "emer",
+      "e",
+      "mer",
       "gency"
     ]
   },
@@ -30306,7 +30705,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈliː.ɡəl/",
     "chinese": "adj. 法律的； 合法的",
     "syllables": [
-      "legal"
+      "le",
+      "gal"
     ]
   },
   {
@@ -30330,7 +30730,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹeɪ.di.əs/",
     "chinese": "n. 半径， 半径范围",
     "syllables": [
-      "radius"
+      "ra",
+      "di",
+      "us"
     ]
   },
   {
@@ -30338,8 +30740,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɪs.ɪn.tɪˈɡɹeɪʃən/",
     "chinese": "n. 破裂， 分裂； 瓦解",
     "syllables": [
-      "disin",
-      "tegration"
+      "disinteg",
+      "ration"
     ]
   },
   {
@@ -30417,7 +30819,9 @@ window.WORDS_EASY = [
     "phonetic": "[ˈsɔɫ.jʊ.bəɫ]",
     "chinese": "adj. 可溶的； 可解决的",
     "syllables": [
-      "soluble"
+      "so",
+      "lub",
+      "le"
     ]
   },
   {
@@ -30433,7 +30837,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɪ.ʒ(ə)n/",
     "chinese": "n. 想象力， 梦幻； 视力， 视觉",
     "syllables": [
-      "vision"
+      "vi",
+      "sion"
     ]
   },
   {
@@ -30458,7 +30863,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpæ.ɹə.daɪs/",
     "chinese": "n. 天堂， 乐园",
     "syllables": [
-      "paradise"
+      "para",
+      "di",
+      "se"
     ]
   },
   {
@@ -30594,8 +31001,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɹɪˈsɛp.ʃn̩/",
     "chinese": "n. 招待会， 欢迎会； 接受， 接纳； 接待， 迎接； 接收效果",
     "syllables": [
-      "recep",
-      "tion"
+      "re",
+      "ception"
     ]
   },
   {
@@ -30612,7 +31019,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈaʊt.wəd/",
     "chinese": "adv. 向外地 adj. 外面的，外表的",
     "syllables": [
-      "outward"
+      "out",
+      "ward"
     ]
   },
   {
@@ -30653,7 +31061,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɪd.i.(j)ɪt/",
     "chinese": "n. 白痴； 傻子， 笨蛋",
     "syllables": [
-      "idiot"
+      "i",
+      "di",
+      "ot"
     ]
   },
   {
@@ -30685,7 +31095,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsoʊ.loʊ/",
     "chinese": "adv. 以独力，单独地 adj. 单独的，单独进行的 n. 独奏， 独唱， 独舞",
     "syllables": [
-      "solo"
+      "so",
+      "lo"
     ]
   },
   {
@@ -30710,7 +31121,8 @@ window.WORDS_EASY = [
     "phonetic": "/juˈtoʊpi.ən/",
     "chinese": "adj. 乌托邦的； 理想的",
     "syllables": [
-      "utopian"
+      "u",
+      "topian"
     ]
   },
   {
@@ -30718,7 +31130,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈskɛ.dʒu.əl/",
     "chinese": "n. 时刻表，日程安排表；清单，明细表 vt. 安排， 排定",
     "syllables": [
-      "schedule"
+      "sche",
+      "du",
+      "le"
     ]
   },
   {
@@ -30777,7 +31191,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɪ.plə.mæt/",
     "chinese": "n. 外交官， 外交家； 有交际手腕的人， 圆滑的人",
     "syllables": [
-      "diplomat"
+      "dip",
+      "lo",
+      "mat"
     ]
   },
   {
@@ -30801,7 +31217,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmʌs.kjə.lə/",
     "chinese": "adj. 肌肉发达的， 强壮的； 肌肉的",
     "syllables": [
-      "muscular"
+      "mus",
+      "cu",
+      "lar"
     ]
   },
   {
@@ -30826,7 +31244,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsteɪ.pəl/",
     "chinese": "adj. 主要的； 经常需要的 n. 订书钉，U形钉；主食；主要产品 vt. 用订书钉订",
     "syllables": [
-      "staple"
+      "stap",
+      "le"
     ]
   },
   {
@@ -30842,8 +31261,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒn.stɹʌkt/",
     "chinese": "vt. 建造； 构思 n. 建筑物； 构想； 观念",
     "syllables": [
-      "con",
-      "struct"
+      "cons",
+      "truct"
     ]
   },
   {
@@ -30885,7 +31304,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛ.lɪʃ/",
     "chinese": "vt. 享受，从…中获得乐趣 n. 享受， 滋味， 乐趣； 调味品",
     "syllables": [
-      "relish"
+      "re",
+      "lish"
     ]
   },
   {
@@ -31008,7 +31428,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹəʊ.tɛst/",
     "chinese": "v. ['prəutest] n. 抗议， 反对",
     "syllables": [
-      "protest"
+      "pro",
+      "test"
     ]
   },
   {
@@ -31067,8 +31488,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈvæl.ɪd/",
     "chinese": "adj. 无效的，作废的；无可靠根据的，站不住脚的 n. 病弱者， 残疾者",
     "syllables": [
-      "in",
-      "valid"
+      "inva",
+      "lid"
     ]
   },
   {
@@ -31126,7 +31547,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstæt.əs/",
     "chinese": "n. 地位， 身份； 情形， 状况",
     "syllables": [
-      "status"
+      "sta",
+      "tus"
     ]
   },
   {
@@ -31264,7 +31686,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnʌɹ.ɪʃ/",
     "chinese": "vt. 养育， 喂养， 滋养； 怀有， 增强",
     "syllables": [
-      "nourish"
+      "nou",
+      "rish"
     ]
   },
   {
@@ -31307,8 +31730,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈsɪm.ɪ.leɪt/",
     "chinese": "vi. 被吸收， 被消化； 被同化 vt. 吸收，消化；使同化",
     "syllables": [
-      "as",
-      "similate"
+      "assi",
+      "mila",
+      "te"
     ]
   },
   {
@@ -31392,7 +31816,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbəʊ.nəs/",
     "chinese": "n. 奖金， 红利； 额外给予的东西",
     "syllables": [
-      "bonus"
+      "bo",
+      "nus"
     ]
   },
   {
@@ -31485,8 +31910,10 @@ window.WORDS_EASY = [
     "phonetic": "/æk.ˈsɛl.ə.ˌɹeɪt/",
     "chinese": "vt. 使加快， 使增速",
     "syllables": [
-      "ac",
-      "celerate"
+      "acce",
+      "le",
+      "ra",
+      "te"
     ]
   },
   {
@@ -31537,7 +31964,8 @@ window.WORDS_EASY = [
     "phonetic": "/aɪˈdiː.əl/",
     "chinese": "adj. 理想的，观念的，空想的 n. 理想， 理想的东西",
     "syllables": [
-      "ideal"
+      "i",
+      "deal"
     ]
   },
   {
@@ -31562,7 +31990,9 @@ window.WORDS_EASY = [
     "phonetic": "/dɪˈfɪn.ɪt.ɪv/",
     "chinese": "adj. 最可靠的， 权威性的； 决定性的",
     "syllables": [
-      "definitive"
+      "defi",
+      "niti",
+      "ve"
     ]
   },
   {
@@ -31578,8 +32008,8 @@ window.WORDS_EASY = [
     "phonetic": "[ˈpɹɛʃ.ə(ɹ)]",
     "chinese": "n. 压，压强；压迫 vt. 对…施加压力， 迫使， 说服",
     "syllables": [
-      "pres",
-      "sure"
+      "pressu",
+      "re"
     ]
   },
   {
@@ -31604,7 +32034,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɪt.ɹə.si/",
     "chinese": "n. 识字， 有文化， 读写能力",
     "syllables": [
-      "literacy"
+      "li",
+      "te",
+      "racy"
     ]
   },
   {
@@ -31637,8 +32069,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌmɪl.i.əˈnɛə(ɹ)/",
     "chinese": "n. 百万富翁， 大富翁",
     "syllables": [
-      "mil",
-      "lionaire"
+      "millio",
+      "nai",
+      "re"
     ]
   },
   {
@@ -31696,7 +32129,8 @@ window.WORDS_EASY = [
     "chinese": "n. 意见， 观点； 感情， 情绪",
     "syllables": [
       "sen",
-      "timent"
+      "ti",
+      "ment"
     ]
   },
   {
@@ -31822,7 +32256,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌek.sɪˈkjuː.ʃən/",
     "chinese": "n. 死刑； 实行， 执行， 履行； 演奏， 表演",
     "syllables": [
-      "execution"
+      "exe",
+      "cution"
     ]
   },
   {
@@ -31839,7 +32274,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbɹəʊ.ʃə(ɹ)/",
     "chinese": "n. 小册子",
     "syllables": [
-      "brochure"
+      "brochu",
+      "re"
     ]
   },
   {
@@ -31914,8 +32350,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsɜː(ɹ).kjʊˈleɪ.ʃən/",
     "chinese": "n. 循环， 流通； 流传， 传播， 发行； 发行量； 流通",
     "syllables": [
-      "cir",
-      "culation"
+      "circu",
+      "lation"
     ]
   },
   {
@@ -31923,7 +32359,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɒ.ˈθɛn.tɪk/",
     "chinese": "adj. 真的， 真正的； 可靠的， 可信的",
     "syllables": [
-      "authen",
+      "aut",
+      "hen",
       "tic"
     ]
   },
@@ -31940,7 +32377,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛ.vɪ.dənt/",
     "chinese": "adj. 明显的， 明白的",
     "syllables": [
-      "evident"
+      "e",
+      "vi",
+      "dent"
     ]
   },
   {
@@ -32076,7 +32515,8 @@ window.WORDS_EASY = [
     "chinese": "vt. 大规模屠杀，残杀；彻底击败 n. 大屠杀， 残杀； 惨败",
     "syllables": [
       "mas",
-      "sacre"
+      "sac",
+      "re"
     ]
   },
   {
@@ -32208,7 +32648,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈbɛn.ɪ.fɪt/",
     "chinese": "vi. 得益 n. 利益，恩惠；救济金，保险金，津贴 vt. 有益于",
     "syllables": [
-      "benefit"
+      "be",
+      "ne",
+      "fit"
     ]
   },
   {
@@ -32267,7 +32709,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsəʊ.bə(ɹ)/",
     "chinese": "adj. 未醉的，有节制的；严肃的，持重的；素淡的，暗淡的 v. 醒酒， 清醒",
     "syllables": [
-      "sober"
+      "so",
+      "ber"
     ]
   },
   {
@@ -32284,7 +32727,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɹɪ.ˈlɪ.d͡ʒəs/",
     "chinese": "adj. 宗教的； 笃信宗教的， 虔诚的",
     "syllables": [
-      "religious"
+      "reli",
+      "gious"
     ]
   },
   {
@@ -32318,7 +32762,11 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsʊu.pɪə(ɹ)ˌi.ɒ.ɹɪ.ti/",
     "chinese": "n. 优越， 优等",
     "syllables": [
-      "superiority"
+      "su",
+      "pe",
+      "ri",
+      "o",
+      "rity"
     ]
   },
   {
@@ -32335,7 +32783,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlæt.ɪ.tjuːd/",
     "chinese": "n. 纬度； 纬度地区； 回旋余地， 自由",
     "syllables": [
-      "latitude"
+      "lati",
+      "tu",
+      "de"
     ]
   },
   {
@@ -32394,7 +32844,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɑm.ɪnl̩/",
     "chinese": "adj. 名义上的， 有名无实的； 很少的， 象征性的； 名词性的",
     "syllables": [
-      "nominal"
+      "nomi",
+      "nal"
     ]
   },
   {
@@ -32428,7 +32879,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈkwɒl.ɪ.ti/",
     "chinese": "n. 等同； 平等； 相等",
     "syllables": [
-      "equality"
+      "equa",
+      "lity"
     ]
   },
   {
@@ -32479,8 +32931,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌɒn.tɹə.pɹəˈnɜː/",
     "chinese": "n. 企业家",
     "syllables": [
-      "en",
-      "trepreneur"
+      "entrep",
+      "reneur"
     ]
   },
   {
@@ -32497,7 +32949,8 @@ window.WORDS_EASY = [
     "chinese": "n. 半岛",
     "syllables": [
       "penin",
-      "sula"
+      "su",
+      "la"
     ]
   },
   {
@@ -32514,7 +32967,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɛf.nɪt.li/",
     "chinese": "adv. 一定地， 明确地",
     "syllables": [
-      "definitely"
+      "defi",
+      "ni",
+      "tely"
     ]
   },
   {
@@ -32548,8 +33003,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪn.ˈspaɪə(ɹ)/",
     "chinese": "vt. 鼓舞； 给…以灵感",
     "syllables": [
-      "in",
-      "spire"
+      "inspi",
+      "re"
     ]
   },
   {
@@ -32625,7 +33080,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈeɪ.dʒənt/",
     "chinese": "n. 代理人， 代理商； 政府代表； 动因， 原因； 剂",
     "syllables": [
-      "agent"
+      "a",
+      "gent"
     ]
   },
   {
@@ -32633,8 +33089,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈbɔɹ.ʃn̩/",
     "chinese": "n. 流产， 堕胎",
     "syllables": [
-      "abor",
-      "tion"
+      "a",
+      "bortion"
     ]
   },
   {
@@ -32727,7 +33183,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɒm.ə.neɪt/",
     "chinese": "vt. 提名， 任命； 推荐， 指定",
     "syllables": [
-      "nominate"
+      "nomi",
+      "na",
+      "te"
     ]
   },
   {
@@ -32769,7 +33227,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹuː.ɪn/",
     "chinese": "v. 毁坏 n. 毁灭；废墟",
     "syllables": [
-      "ruin"
+      "ru",
+      "in"
     ]
   },
   {
@@ -32830,7 +33289,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˌsaɪˈkaɪ.ə.tɹɪst/",
     "chinese": "n. 精神科医生， 精神病专家",
     "syllables": [
-      "psychiatrist"
+      "psychi",
+      "at",
+      "rist"
     ]
   },
   {
@@ -33015,7 +33476,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɪk.əl/",
     "chinese": "n. 镍； 五分镍币， 五分钱",
     "syllables": [
-      "nickel"
+      "nic",
+      "kel"
     ]
   },
   {
@@ -33023,7 +33485,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpeɪ.tɹən/",
     "chinese": "n. 资助人， 赞助人； 老主顾， 顾客",
     "syllables": [
-      "patron"
+      "pat",
+      "ron"
     ]
   },
   {
@@ -33057,7 +33520,9 @@ window.WORDS_EASY = [
     "phonetic": "[ˌpɹɒp.ə.ˈɡæn.də]",
     "chinese": "n. 宣传",
     "syllables": [
-      "propagan",
+      "pro",
+      "pa",
+      "gan",
       "da"
     ]
   },
@@ -33169,7 +33634,8 @@ window.WORDS_EASY = [
     "chinese": "n. 公式， 式； 原则， 方案； 配方",
     "syllables": [
       "for",
-      "mula"
+      "mu",
+      "la"
     ]
   },
   {
@@ -33278,7 +33744,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɹɪt.ɪk/",
     "chinese": "n. 批评家， 爱挑剔的人",
     "syllables": [
-      "critic"
+      "cri",
+      "tic"
     ]
   },
   {
@@ -33449,8 +33916,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɔː.ɡɪdʒ/",
     "chinese": "n. 抵押，抵押借款 vt. 抵押",
     "syllables": [
-      "mor",
-      "tgage"
+      "mortga",
+      "ge"
     ]
   },
   {
@@ -33591,8 +34058,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈnɜːɹ.tʃəɹ/",
     "chinese": "n&vt. 养育， 培育， 滋养",
     "syllables": [
-      "nur",
-      "ture"
+      "nurtu",
+      "re"
     ]
   },
   {
@@ -33668,7 +34135,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɛɡ.ˈzɪs.təns/",
     "chinese": "n. 存在， 实在； 生存",
     "syllables": [
-      "existen",
+      "exis",
+      "ten",
       "ce"
     ]
   },
@@ -33702,7 +34170,9 @@ window.WORDS_EASY = [
     "phonetic": "/maɪˈnɒɹ.ɪ.ti/",
     "chinese": "n. 少数； 少数民族",
     "syllables": [
-      "minority"
+      "mi",
+      "no",
+      "rity"
     ]
   },
   {
@@ -33787,7 +34257,8 @@ window.WORDS_EASY = [
     "chinese": "v. 夸大， 夸张",
     "syllables": [
       "exag",
-      "gerate"
+      "gera",
+      "te"
     ]
   },
   {
@@ -33907,7 +34378,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹəˈvɪʒ.ən/",
     "chinese": "n. 供应； 准备， 预备； 条款， 规定； 给养， 口粮",
     "syllables": [
-      "provision"
+      "pro",
+      "vision"
     ]
   },
   {
@@ -33923,7 +34395,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsləʊ.ɡ(ə)n/",
     "chinese": "n. 标语， 口号； 广告语",
     "syllables": [
-      "slogan"
+      "slo",
+      "gan"
     ]
   },
   {
@@ -33932,7 +34405,9 @@ window.WORDS_EASY = [
     "chinese": "adv. 不变地， 始终如一地， 总是",
     "syllables": [
       "in",
-      "variably"
+      "va",
+      "ri",
+      "ably"
     ]
   },
   {
@@ -33957,8 +34432,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈməː.kjʊ.ɹi/",
     "chinese": "n. 水银， 汞",
     "syllables": [
-      "mer",
-      "cury"
+      "mercury"
     ]
   },
   {
@@ -33966,7 +34440,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfɹiː.kwənt/",
     "chinese": "adj. 时常发生的， 常见的",
     "syllables": [
-      "frequent"
+      "fre",
+      "quent"
     ]
   },
   {
@@ -34017,7 +34492,9 @@ window.WORDS_EASY = [
     "phonetic": "/pəˈɹæm.ɪ.tə/",
     "chinese": "n. 界限， 范围； 参数",
     "syllables": [
-      "parameter"
+      "para",
+      "me",
+      "ter"
     ]
   },
   {
@@ -34109,8 +34586,9 @@ window.WORDS_EASY = [
     "phonetic": "/ænˈtɪs.ɪ.peɪt/",
     "chinese": "vt. 预料， 预期， 期望； 先于…行动， 提前使用",
     "syllables": [
-      "an",
-      "ticipate"
+      "anti",
+      "cipa",
+      "te"
     ]
   },
   {
@@ -34134,7 +34612,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfæb.ɹɪ.keɪt/",
     "chinese": "vt. 捏造， 伪造， 编造； 建造",
     "syllables": [
-      "fabricate"
+      "fabri",
+      "ca",
+      "te"
     ]
   },
   {
@@ -34307,8 +34787,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈʌp.ɡɹeɪd/",
     "chinese": "vt. 提升，使升级 n. 向上的斜坡",
     "syllables": [
-      "up",
-      "grade"
+      "upgra",
+      "de"
     ]
   },
   {
@@ -34342,7 +34822,9 @@ window.WORDS_EASY = [
     "phonetic": "/iːˈkɒn.ə.mi/",
     "chinese": "n. 经济； 节约， 节省",
     "syllables": [
-      "economy"
+      "e",
+      "co",
+      "nomy"
     ]
   },
   {
@@ -34437,7 +34919,8 @@ window.WORDS_EASY = [
     "phonetic": "/kɹaɪˈtɪəɹi.ən/",
     "chinese": "n. 标准， 准则",
     "syllables": [
-      "criterion"
+      "cri",
+      "terion"
     ]
   },
   {
@@ -34453,7 +34936,9 @@ window.WORDS_EASY = [
     "phonetic": "/juːˈtɪl.ɪ.ti/",
     "chinese": "n. 效用， 有用",
     "syllables": [
-      "utility"
+      "u",
+      "ti",
+      "lity"
     ]
   },
   {
@@ -34461,7 +34946,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈman.j(ʊ)əl/",
     "chinese": "adj. 用手的，手工做的 n. 手册， 指南",
     "syllables": [
-      "manual"
+      "ma",
+      "nual"
     ]
   },
   {
@@ -34485,7 +34971,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛl.əˌkwənt/",
     "chinese": "adj. 雄辩的， 口才流利的， 有说服力的； 明白显示出的",
     "syllables": [
-      "eloquent"
+      "e",
+      "loquent"
     ]
   },
   {
@@ -34502,7 +34989,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdjuː.əl/",
     "chinese": "adj. 双的， 两重的",
     "syllables": [
-      "dual"
+      "du",
+      "al"
     ]
   },
   {
@@ -34510,8 +34998,8 @@ window.WORDS_EASY = [
     "phonetic": "/sʌb.məˈɹiːn/",
     "chinese": "adj. 水底的， 海底的 n. 潜水艇",
     "syllables": [
-      "sub",
-      "marine"
+      "submari",
+      "ne"
     ]
   },
   {
@@ -34551,7 +35039,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɪn.ə.maɪz/",
     "chinese": "vt. 使减少到最低限度； 极力贬低， 对…作最低估计",
     "syllables": [
-      "minimize"
+      "mini",
+      "mi",
+      "ze"
     ]
   },
   {
@@ -34651,7 +35141,8 @@ window.WORDS_EASY = [
     "phonetic": "/pɹɪˈsiː.dənt/",
     "chinese": "n. 先例， 范例； 【法】 判例； 惯例",
     "syllables": [
-      "precedent"
+      "prece",
+      "dent"
     ]
   },
   {
@@ -34710,7 +35201,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛdʒ.ɪs.tə/",
     "chinese": "v. 登记， 注册； 指示， 自动记下； 表示， 表达； 注意到， 记住； 把挂号 n. 登记，注册；登记表，注册簿",
     "syllables": [
-      "register"
+      "re",
+      "gis",
+      "ter"
     ]
   },
   {
@@ -34760,7 +35253,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæs.ɪd/",
     "chinese": "adj. 酸的， 酸性的； 尖刻的， 刻薄的 n. 酸",
     "syllables": [
-      "acid"
+      "a",
+      "cid"
     ]
   },
   {
@@ -34784,7 +35278,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdjuːbi.əs/",
     "chinese": "adj. 怀疑的， 犹豫不决的， 无把握的； 有问题的； 靠不住的",
     "syllables": [
-      "dubious"
+      "du",
+      "bious"
     ]
   },
   {
@@ -34868,7 +35363,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 最重要的； 基本的 n. 红衣主教；【数】基数",
     "syllables": [
       "car",
-      "dinal"
+      "di",
+      "nal"
     ]
   },
   {
@@ -34894,7 +35390,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfjuː.ʒən/",
     "chinese": "n. 联合， 合并； 核聚变",
     "syllables": [
-      "fusion"
+      "fu",
+      "sion"
     ]
   },
   {
@@ -34902,7 +35399,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɒl.juːm/",
     "chinese": "n. 卷， 册， 书卷； 容积， 体积； 音量， 响度",
     "syllables": [
-      "volume"
+      "volu",
+      "me"
     ]
   },
   {
@@ -35096,7 +35594,8 @@ window.WORDS_EASY = [
     "phonetic": "/aɪˈdɛn.tɪ.faɪ/",
     "chinese": "vt. 认出， 鉴定； 把…等同于",
     "syllables": [
-      "iden",
+      "i",
+      "den",
       "tify"
     ]
   },
@@ -35206,7 +35705,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌfɪzi.əˈlɑdʒɪkəl/",
     "chinese": "adj. 生理的， 生理学的",
     "syllables": [
-      "physiological"
+      "physiolo",
+      "gical"
     ]
   },
   {
@@ -35223,7 +35723,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 美学的， 审美的； 悦目的， 雅致的",
     "syllables": [
       "aest",
-      "hetic"
+      "he",
+      "tic"
     ]
   },
   {
@@ -35490,7 +35991,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 确信的， 肯定的； 自信的",
     "syllables": [
       "con",
-      "fident"
+      "fi",
+      "dent"
     ]
   },
   {
@@ -35506,7 +36008,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɹɑːs.tɪk/",
     "chinese": "adj. 严厉的， 极端的； 激烈的， 迅猛的",
     "syllables": [
-      "drastic"
+      "dras",
+      "tic"
     ]
   },
   {
@@ -35563,8 +36066,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈɝ.ʃə/",
     "chinese": "n. 不活动， 惰性； 惯性",
     "syllables": [
-      "iner",
-      "tia"
+      "i",
+      "nertia"
     ]
   },
   {
@@ -35581,7 +36084,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvæ.kjuː.əm/",
     "chinese": "v. 收集； 用真空吸尘器打扫 n. 真空；真空吸尘器",
     "syllables": [
-      "vacuum"
+      "va",
+      "cu",
+      "um"
     ]
   },
   {
@@ -35623,8 +36128,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˌlɛkˈtɹɒn.ɪk/",
     "chinese": "adj. 电子的 n. 电子学； 电子设备",
     "syllables": [
-      "elec",
-      "tronic"
+      "electro",
+      "nic"
     ]
   },
   {
@@ -35666,7 +36171,8 @@ window.WORDS_EASY = [
     "phonetic": "/kəˈθiː.dɹəl/",
     "chinese": "n. 大教堂",
     "syllables": [
-      "cathedral"
+      "cathed",
+      "ral"
     ]
   },
   {
@@ -35674,7 +36180,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛl.ə.ɡənt/",
     "chinese": "adj. 优美的， 文雅的， 讲究的； 简练的， 简洁的",
     "syllables": [
-      "elegant"
+      "e",
+      "le",
+      "gant"
     ]
   },
   {
@@ -35829,7 +36337,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌɹɛf.əˈɹiː/",
     "chinese": "vi. 当裁判 n. 裁判员；证明人，推荐人；仲裁者，调解者",
     "syllables": [
-      "referee"
+      "re",
+      "feree"
     ]
   },
   {
@@ -35837,7 +36346,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛː.ɹi.əl/",
     "chinese": "adj. 飞机的，航空的；空中的，架空的 n. 天线",
     "syllables": [
-      "aerial"
+      "ae",
+      "rial"
     ]
   },
   {
@@ -35912,7 +36422,8 @@ window.WORDS_EASY = [
     "phonetic": "/keɪ.bl/",
     "chinese": "n. 缆，索，电缆，电报 vt. 给… 发电报， 用电报传送",
     "syllables": [
-      "cable"
+      "cab",
+      "le"
     ]
   },
   {
@@ -35945,8 +36456,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɑː(ɹ)ˈtɪk.jʊ.lət/",
     "chinese": "adj. 善于表达的， 发音清晰的； 表达得清楚有力的 vt. 明确有力地表达； 清楚地吐， 清晰地发",
     "syllables": [
-      "ar",
-      "ticulate"
+      "arti",
+      "cula",
+      "te"
     ]
   },
   {
@@ -36146,7 +36658,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɛm.əɹˌaɪ̯z/",
     "chinese": "vt. 记住， 熟记",
     "syllables": [
-      "memorize"
+      "memori",
+      "ze"
     ]
   },
   {
@@ -36180,7 +36693,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmæn.ə.fɛst/",
     "chinese": "adj. 明显的，显然的，明了的 vt. 显示， 表明， 证明； 使显现， 使显露",
     "syllables": [
-      "manifest"
+      "ma",
+      "ni",
+      "fest"
     ]
   },
   {
@@ -36196,8 +36711,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈdɛv.ə/",
     "chinese": "n&v. 努力， 尽力， 尝试",
     "syllables": [
-      "en",
-      "deavor"
+      "endea",
+      "vor"
     ]
   },
   {
@@ -36221,8 +36736,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈdʒeɪ.sənt/",
     "chinese": "adj. 邻近的， 毗连的",
     "syllables": [
-      "ad",
-      "jacent"
+      "adja",
+      "cent"
     ]
   },
   {
@@ -36239,7 +36754,8 @@ window.WORDS_EASY = [
     "phonetic": "/spəˈsɪf.ɪk/",
     "chinese": "adj. 特有的；明确的；具体的 n. 详情， 细节",
     "syllables": [
-      "specific"
+      "speci",
+      "fic"
     ]
   },
   {
@@ -36365,8 +36881,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæk.jə.ɹɪt/",
     "chinese": "adj. 准确的， 正确无误的",
     "syllables": [
-      "ac",
-      "curate"
+      "accu",
+      "ra",
+      "te"
     ]
   },
   {
@@ -36374,7 +36891,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɛdʒ.ənd/",
     "chinese": "n. 传说， 传奇故事； 传奇人物",
     "syllables": [
-      "legend"
+      "le",
+      "gend"
     ]
   },
   {
@@ -36442,7 +36960,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹəʊti.ɪn/",
     "chinese": "n. 蛋白质",
     "syllables": [
-      "protein"
+      "pro",
+      "tein"
     ]
   },
   {
@@ -36451,7 +36970,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 每年的，一年一次的 n. 年报， 年鉴； 一年生的植物",
     "syllables": [
       "an",
-      "nual"
+      "nu",
+      "al"
     ]
   },
   {
@@ -36459,8 +36979,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪkˈsklu.sɪv/",
     "chinese": "adj. 奢华的，高级的；独有的；排斥的；不包括…的 n. 独家新闻",
     "syllables": [
-      "ex",
-      "clusive"
+      "exclusi",
+      "ve"
     ]
   },
   {
@@ -36469,7 +36989,8 @@ window.WORDS_EASY = [
     "chinese": "n. 全部节目",
     "syllables": [
       "reper",
-      "toire"
+      "toi",
+      "re"
     ]
   },
   {
@@ -36644,7 +37165,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈəʊ.də/",
     "chinese": "n. 气味",
     "syllables": [
-      "odor"
+      "o",
+      "dor"
     ]
   },
   {
@@ -36737,7 +37259,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsem.ɘˌtiɘɹ.i/",
     "chinese": "n. 墓地， 公墓",
     "syllables": [
-      "cemetery"
+      "ce",
+      "me",
+      "tery"
     ]
   },
   {
@@ -36761,7 +37285,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɹaɪ.ʌmf/",
     "chinese": "vi. 成功 n. 凯旋，胜利",
     "syllables": [
-      "triumph"
+      "tri",
+      "umph"
     ]
   },
   {
@@ -36891,7 +37416,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈɡeɪd͡ʒ.mənt/",
     "chinese": "n. 订婚， 婚约； 约会",
     "syllables": [
-      "engagement"
+      "engage",
+      "ment"
     ]
   },
   {
@@ -36899,7 +37425,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈwɛl.θi/",
     "chinese": "adj. 富的， 富裕的",
     "syllables": [
-      "wealthy"
+      "we",
+      "althy"
     ]
   },
   {
@@ -37035,7 +37562,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈsɒv.ɹɪn/",
     "chinese": "adj. 拥有最高统治权的， 至高无上的； 具有独立主权的 n. 君主，元首",
     "syllables": [
-      "sovereign"
+      "so",
+      "vereign"
     ]
   },
   {
@@ -37051,8 +37579,9 @@ window.WORDS_EASY = [
     "phonetic": "/sɪɡˈnɪ.fɪ.kənt/",
     "chinese": "adj. 相当数量的； 重要的， 意义重大的， 意味深长的",
     "syllables": [
-      "sig",
-      "nificant"
+      "signi",
+      "fi",
+      "cant"
     ]
   },
   {
@@ -37060,7 +37589,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdjuː.plɪ.kət/",
     "chinese": "adj. 完全一样的， 复制的 n. 完全一样的东西，复制品 vt. 复制， 复印； 重复",
     "syllables": [
-      "duplicate"
+      "dupli",
+      "ca",
+      "te"
     ]
   },
   {
@@ -37101,8 +37632,8 @@ window.WORDS_EASY = [
     "phonetic": "/vɒl.ənˈtɪə/",
     "chinese": "v. 自愿； 自愿提供； 志愿 n. 志愿者；志愿兵",
     "syllables": [
-      "volun",
-      "teer"
+      "vo",
+      "lunteer"
     ]
   },
   {
@@ -37151,7 +37682,8 @@ window.WORDS_EASY = [
     "phonetic": "/maɪ.ˈɡɹeɪt/",
     "chinese": "vi. 迁徙， 移栖； 移居， 迁移",
     "syllables": [
-      "migrate"
+      "migra",
+      "te"
     ]
   },
   {
@@ -37159,7 +37691,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈiː.stə/",
     "chinese": "n. 复活节",
     "syllables": [
-      "easter"
+      "eas",
+      "ter"
     ]
   },
   {
@@ -37354,7 +37887,8 @@ window.WORDS_EASY = [
     "phonetic": "/əˈnæl.ə.ɡəs/",
     "chinese": "adj. 类似的， 相似的； 可比拟的",
     "syllables": [
-      "analogous"
+      "ana",
+      "logous"
     ]
   },
   {
@@ -37509,8 +38043,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈθæŋksˌɡɪv.ɪŋ/",
     "chinese": "n. 感恩节",
     "syllables": [
-      "than",
-      "ksgiving"
+      "thanksgi",
+      "ving"
     ]
   },
   {
@@ -37609,8 +38143,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɛzɪɡ.neɪt/",
     "chinese": "vt. 指派， 委任； 标出； 把…定名为",
     "syllables": [
-      "desig",
-      "nate"
+      "designa",
+      "te"
     ]
   },
   {
@@ -37734,7 +38268,8 @@ window.WORDS_EASY = [
     "phonetic": "/dɪˈnaɪ.əl/",
     "chinese": "n. 否认； 拒绝， 拒绝给予",
     "syllables": [
-      "denial"
+      "de",
+      "nial"
     ]
   },
   {
@@ -37803,7 +38338,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɪː(ə).kəl/",
     "chinese": "n. 车辆， 机动车； 传播媒介， 工具， 手段",
     "syllables": [
-      "vehicle"
+      "vehic",
+      "le"
     ]
   },
   {
@@ -37929,8 +38465,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæɡ.ɹə.veɪ̯t/",
     "chinese": "vt. 加重， 加剧， 使恶化； 激怒， 使恼火",
     "syllables": [
-      "ag",
-      "gravate"
+      "aggra",
+      "va",
+      "te"
     ]
   },
   {
@@ -38022,8 +38559,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈli.vi.eɪt/",
     "chinese": "vt. 减轻； 缓解， 缓和",
     "syllables": [
-      "al",
-      "leviate"
+      "alle",
+      "via",
+      "te"
     ]
   },
   {
@@ -38056,7 +38594,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈθɹɛt.n̩/",
     "chinese": "v. 威胁， 恐吓； 预示快要来临； 构成威胁， 可能发生",
     "syllables": [
-      "threaten"
+      "threa",
+      "ten"
     ]
   },
   {
@@ -38089,7 +38628,9 @@ window.WORDS_EASY = [
     "phonetic": "/nəˈɡəʊ.ʃi.eɪt/",
     "chinese": "v. 洽谈， 协商， 谈判； 顺利通过， 成功越过",
     "syllables": [
-      "negotiate"
+      "nego",
+      "tia",
+      "te"
     ]
   },
   {
@@ -38106,8 +38647,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtæŋ.ɡəl/",
     "chinese": "v. 缠结，乱作一团 n. 乱糟糟的一堆， 混乱； 复杂的问题； 困惑",
     "syllables": [
-      "tang",
-      "le"
+      "tan",
+      "gle"
     ]
   },
   {
@@ -38132,7 +38673,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɔː.ɹɪ.ənt/",
     "chinese": "vi. 转向特定方向；适应[theO-] vt. 使适应，使熟悉情况；使朝向，以…为方向 n. 东方， 亚洲， 东半球",
     "syllables": [
-      "orient"
+      "o",
+      "ri",
+      "ent"
     ]
   },
   {
@@ -38200,7 +38743,8 @@ window.WORDS_EASY = [
     "phonetic": "/njuːˈtɹɪ.ʃən/",
     "chinese": "n. 营养",
     "syllables": [
-      "nutrition"
+      "nut",
+      "rition"
     ]
   },
   {
@@ -38226,7 +38770,9 @@ window.WORDS_EASY = [
     "phonetic": "[ˈvɛ.t̬ə.ɹən]",
     "chinese": "adj. 经验丰富的 n. 老手；老兵",
     "syllables": [
-      "veteran"
+      "ve",
+      "te",
+      "ran"
     ]
   },
   {
@@ -38285,8 +38831,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɛɹˈəʊ.nɪ.əs/",
     "chinese": "adj. 错误的， 不正确的",
     "syllables": [
-      "er",
-      "roneous"
+      "erro",
+      "neous"
     ]
   },
   {
@@ -38354,7 +38900,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɹuː.ʃəl/",
     "chinese": "adj. 至关重要的， 决定性的",
     "syllables": [
-      "crucial"
+      "cru",
+      "cial"
     ]
   },
   {
@@ -38362,8 +38909,8 @@ window.WORDS_EASY = [
     "phonetic": "/kənˈt(ʃ)ɹɪb.juːt/",
     "chinese": "v. 捐献， 捐款； 投稿",
     "syllables": [
-      "con",
-      "tribute"
+      "contribu",
+      "te"
     ]
   },
   {
@@ -38406,8 +38953,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkæn.dɪdət/",
     "chinese": "n. 候选人， 投考者， 申请求职者",
     "syllables": [
-      "can",
-      "didate"
+      "candida",
+      "te"
     ]
   },
   {
@@ -38448,7 +38995,10 @@ window.WORDS_EASY = [
     "phonetic": "/hɒs.pɪˈtæl.ɪ.ti/",
     "chinese": "n. 友好款待， 好客",
     "syllables": [
-      "hospitality"
+      "hos",
+      "pi",
+      "ta",
+      "lity"
     ]
   },
   {
@@ -38514,7 +39064,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdiːvi.ət/",
     "chinese": "vi. 背离， 偏离",
     "syllables": [
-      "deviate"
+      "devia",
+      "te"
     ]
   },
   {
@@ -38531,7 +39082,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɪm.jə.ləs/",
     "chinese": "n. 促进； 刺激",
     "syllables": [
-      "stimulus"
+      "sti",
+      "mu",
+      "lus"
     ]
   },
   {
@@ -38582,7 +39135,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɛə.ɹi.əs/",
     "chinese": "adj. 各种各样的， 不同的",
     "syllables": [
-      "various"
+      "va",
+      "ri",
+      "ous"
     ]
   },
   {
@@ -38599,8 +39154,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈfɪl.i.et/",
     "chinese": "vt. 使隶属于 n. 附属机构， 分公司",
     "syllables": [
-      "af",
-      "filiate"
+      "affi",
+      "lia",
+      "te"
     ]
   },
   {
@@ -38652,7 +39208,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈeɪ.li.ə.neɪt/",
     "chinese": "vt. 使疏远， 使不友好， 离间； 转让， 让渡",
     "syllables": [
-      "alienate"
+      "alie",
+      "na",
+      "te"
     ]
   },
   {
@@ -38701,7 +39259,8 @@ window.WORDS_EASY = [
     "phonetic": "/kəˈləʊ.ni.əl/",
     "chinese": "adj. 殖民地的",
     "syllables": [
-      "colonial"
+      "colo",
+      "nial"
     ]
   },
   {
@@ -38751,8 +39310,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpæmf.lɪt/",
     "chinese": "n. 小册子",
     "syllables": [
-      "pam",
-      "phlet"
+      "pamp",
+      "hlet"
     ]
   },
   {
@@ -38827,7 +39386,8 @@ window.WORDS_EASY = [
     "chinese": "n. 祖宗， 祖先； 原型； 先驱",
     "syllables": [
       "an",
-      "cestor"
+      "ces",
+      "tor"
     ]
   },
   {
@@ -38860,8 +39420,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɑː.tə.ɹi/",
     "chinese": "n. 动脉； 干线， 要道",
     "syllables": [
-      "ar",
-      "tery"
+      "artery"
     ]
   },
   {
@@ -38877,8 +39436,9 @@ window.WORDS_EASY = [
     "phonetic": "/ʌndɚˈɛs.tɨ.meɪt/",
     "chinese": "vt. 对…估计不足，低估 n. 估计不足， 低估",
     "syllables": [
-      "un",
-      "derestimate"
+      "underes",
+      "tima",
+      "te"
     ]
   },
   {
@@ -38994,7 +39554,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌpɒp.jəˈlæɹ.ɪ.ti/",
     "chinese": "n. 普及， 流行； 声望",
     "syllables": [
-      "popularity"
+      "po",
+      "pu",
+      "la",
+      "rity"
     ]
   },
   {
@@ -39131,7 +39694,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈviː.sə/",
     "chinese": "n. 签证",
     "syllables": [
-      "visa"
+      "vi",
+      "sa"
     ]
   },
   {
@@ -39148,7 +39712,8 @@ window.WORDS_EASY = [
     "phonetic": "/pəˈtɪ.ʃən/",
     "chinese": "v. 请愿， 正式请求 n. 请愿书，申请书；诉状",
     "syllables": [
-      "petition"
+      "pe",
+      "tition"
     ]
   },
   {
@@ -39324,7 +39889,8 @@ window.WORDS_EASY = [
     "phonetic": "/səˈspɪ.ʃəs/",
     "chinese": "adj. 猜疑的， 疑心的； 可疑的； 表示怀疑的",
     "syllables": [
-      "suspicious"
+      "sus",
+      "picious"
     ]
   },
   {
@@ -39349,7 +39915,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌhɒ.mə(ʊ)ˈdʒiː.nɪəs/",
     "chinese": "adj. 同种类的， 同性质的， 有相同特征的",
     "syllables": [
-      "homogeneous"
+      "homoge",
+      "neous"
     ]
   },
   {
@@ -39384,7 +39951,8 @@ window.WORDS_EASY = [
     "chinese": "n. 焦虑， 忧虑； 渴望， 热望",
     "syllables": [
       "an",
-      "xiety"
+      "xi",
+      "ety"
     ]
   },
   {
@@ -39417,7 +39985,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvəʊ.kəl/",
     "chinese": "adj. 喜欢畅所欲言的，直言不讳的；嗓音的，发声的 n. 声乐节目",
     "syllables": [
-      "vocal"
+      "vo",
+      "cal"
     ]
   },
   {
@@ -39433,7 +40002,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɒɹ.ə.dʒən/",
     "chinese": "n. 起源， 起因； 出身， 血统",
     "syllables": [
-      "origin"
+      "o",
+      "ri",
+      "gin"
     ]
   },
   {
@@ -39516,7 +40087,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈhɒ.və(ɹ)/",
     "chinese": "vi. 翱翔； 逗留在近旁， 徘徊； 彷徨， 犹豫",
     "syllables": [
-      "hover"
+      "ho",
+      "ver"
     ]
   },
   {
@@ -39878,8 +40450,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɪn.tɹɪ.kət/",
     "chinese": "adj. 错综复杂的， 复杂精细的",
     "syllables": [
-      "in",
-      "tricate"
+      "intri",
+      "ca",
+      "te"
     ]
   },
   {
@@ -39927,7 +40500,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒs.tjuːm/",
     "chinese": "n. 服装， 服饰； 戏装， 成套服装",
     "syllables": [
-      "costume"
+      "costu",
+      "me"
     ]
   },
   {
@@ -40003,7 +40577,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈstɛɹi.əʊ/",
     "chinese": "adj. 立体的；立体声的 n. 立体声",
     "syllables": [
-      "stereo"
+      "ste",
+      "reo"
     ]
   },
   {
@@ -40036,7 +40611,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmidi.ət/",
     "chinese": "vi. 调解，斡旋 vt. 经调解解决； 经斡旋促成",
     "syllables": [
-      "mediate"
+      "media",
+      "te"
     ]
   },
   {
@@ -40053,7 +40629,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹɒf.ɪt/",
     "chinese": "n. 先知； 预言者",
     "syllables": [
-      "prophet"
+      "prop",
+      "het"
     ]
   },
   {
@@ -40069,8 +40646,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæmp.lɪ.faɪ/",
     "chinese": "vt. 放大， 增强； 扩大； 详述， 进一步阐述",
     "syllables": [
-      "am",
-      "plify"
+      "amplify"
     ]
   },
   {
@@ -40095,7 +40671,8 @@ window.WORDS_EASY = [
     "chinese": "n. 解决； 协议； 居留地， 小社区",
     "syllables": [
       "set",
-      "tlement"
+      "tle",
+      "ment"
     ]
   },
   {
@@ -40119,7 +40696,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˈlɪ.tə.ɹɪ.tʃə(ɹ)/",
     "chinese": "n. 文学， 文学作品； 文献， 图书资料",
     "syllables": [
-      "literature"
+      "lite",
+      "ra",
+      "tu",
+      "re"
     ]
   },
   {
@@ -40202,7 +40782,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˌdɪs.pəˈzɪ.ʃən/",
     "chinese": "n. 性情， 性格； 意向， 倾向； 排列， 部署",
     "syllables": [
-      "disposition"
+      "dispo",
+      "sition"
     ]
   },
   {
@@ -40262,7 +40843,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæot.ɹæed͡ʒ/",
     "chinese": "n. 义愤，愤慨；暴行，骇人听闻的事件 vt. 激起…的义愤， 激怒",
     "syllables": [
-      "outrage"
+      "outra",
+      "ge"
     ]
   },
   {
@@ -40357,7 +40939,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɒk.sɪk/",
     "chinese": "adj. 有毒的， 因中毒引起的",
     "syllables": [
-      "toxic"
+      "to",
+      "xic"
     ]
   },
   {
@@ -40374,7 +40957,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɔː.θə/",
     "chinese": "n. 著作家， 作者",
     "syllables": [
-      "author"
+      "aut",
+      "hor"
     ]
   },
   {
@@ -40382,7 +40966,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈliː.vɚ/",
     "chinese": "n. 杠，杠杆；途径，手段，工具 vt. 撬动， 撬起",
     "syllables": [
-      "lever"
+      "le",
+      "ver"
     ]
   },
   {
@@ -40399,7 +40984,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈstæb.lɪʃ/",
     "chinese": "vt. 建立， 设立； 确立； 证实",
     "syllables": [
-      "establish"
+      "estab",
+      "lish"
     ]
   },
   {
@@ -40508,7 +41094,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɹɛs.ə.pi/",
     "chinese": "n. 烹饪法， 食谱； 方法， 秘诀， 诀窍",
     "syllables": [
-      "recipe"
+      "re",
+      "ci",
+      "pe"
     ]
   },
   {
@@ -40516,7 +41104,10 @@ window.WORDS_EASY = [
     "phonetic": "/ˌaɪ.diːˈɒl.ə.d͡ʒiː/",
     "chinese": "n. 思想， 思想意识",
     "syllables": [
-      "ideology"
+      "i",
+      "de",
+      "o",
+      "logy"
     ]
   },
   {
@@ -40549,8 +41140,10 @@ window.WORDS_EASY = [
     "phonetic": "[ɪn.ˈves.tɪ.ɡeɪ̯t]",
     "chinese": "v. 调查， 研究",
     "syllables": [
-      "in",
-      "vestigate"
+      "inves",
+      "ti",
+      "ga",
+      "te"
     ]
   },
   {
@@ -40660,8 +41253,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɒn.səʊl/",
     "chinese": "vt. 安慰，慰问 n. 控制台， 操纵台",
     "syllables": [
-      "con",
-      "sole"
+      "conso",
+      "le"
     ]
   },
   {
@@ -40881,7 +41474,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdɪ.sə.plɪn/",
     "chinese": "n. 纪律，训练；惩罚；学科 vt. 训练； 惩罚， 处罚",
     "syllables": [
-      "discipline"
+      "discip",
+      "li",
+      "ne"
     ]
   },
   {
@@ -40984,7 +41579,8 @@ window.WORDS_EASY = [
     "chinese": "n. 酒精， 乙醇",
     "syllables": [
       "al",
-      "cohol"
+      "co",
+      "hol"
     ]
   },
   {
@@ -41094,8 +41690,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɛkˈspaɪ.ə(ɹ)/",
     "chinese": "vi. 期满， 终止； 断气， 死亡",
     "syllables": [
-      "ex",
-      "pire"
+      "expi",
+      "re"
     ]
   },
   {
@@ -41365,8 +41961,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkɑn.sɪ.kwənt/",
     "chinese": "adj. 作为结果的， 随之发生的",
     "syllables": [
-      "con",
-      "sequent"
+      "conse",
+      "quent"
     ]
   },
   {
@@ -41415,8 +42011,8 @@ window.WORDS_EASY = [
     "phonetic": "/ɪˈnjuːməɹ.əbəl/",
     "chinese": "adj. 无数的， 数不清的",
     "syllables": [
-      "in",
-      "numerable"
+      "innume",
+      "rable"
     ]
   },
   {
@@ -41424,8 +42020,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæd.və.keɪt/",
     "chinese": "vt. 拥护， 提倡， 主张 n. 拥护者， 提倡者； 辩护者， 律师",
     "syllables": [
-      "ad",
-      "vocate"
+      "advo",
+      "ca",
+      "te"
     ]
   },
   {
@@ -41474,7 +42071,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtɹɪ.vi.əl/",
     "chinese": "adj. 琐碎的， 不重要的",
     "syllables": [
-      "trivial"
+      "tri",
+      "vi",
+      "al"
     ]
   },
   {
@@ -41508,7 +42107,9 @@ window.WORDS_EASY = [
     "phonetic": "/lɒnˈdʒɛ.vɪ.ti/",
     "chinese": "n. 长寿， 寿命",
     "syllables": [
-      "longevity"
+      "lon",
+      "ge",
+      "vity"
     ]
   },
   {
@@ -41516,7 +42117,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɪl.ɪ.tɹi/",
     "chinese": "adj. 军事的；军用的 n. 军队， 武装力量",
     "syllables": [
-      "military"
+      "mi",
+      "li",
+      "tary"
     ]
   },
   {
@@ -41524,7 +42127,8 @@ window.WORDS_EASY = [
     "phonetic": "/daɪˈnæ.mɪk/",
     "chinese": "adj. 动力的， 动力学的； 动态的； 有活力的， 有生气的",
     "syllables": [
-      "dynamic"
+      "dyna",
+      "mic"
     ]
   },
   {
@@ -41559,7 +42163,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈdʒɛn.əɹ.eɪt/",
     "chinese": "vt. 发生， 引起； 生殖",
     "syllables": [
-      "generate"
+      "gene",
+      "ra",
+      "te"
     ]
   },
   {
@@ -41592,8 +42198,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈæθ.lit/",
     "chinese": "n. 运动员， 体育家",
     "syllables": [
-      "ath",
-      "lete"
+      "athle",
+      "te"
     ]
   },
   {
@@ -41818,8 +42424,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛm.fə.saɪz/",
     "chinese": "vt. 强调， 着重",
     "syllables": [
-      "em",
-      "phasize"
+      "empha",
+      "si",
+      "ze"
     ]
   },
   {
@@ -41845,7 +42452,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈkʌv.əɹ.ɪdʒ/",
     "chinese": "n. 新闻报道； 覆盖范围",
     "syllables": [
-      "coverage"
+      "cove",
+      "ra",
+      "ge"
     ]
   },
   {
@@ -41945,7 +42554,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpɹɛ.mə.tjə/",
     "chinese": "adj. 比预期时间早的； 不成熟的， 仓促的",
     "syllables": [
-      "premature"
+      "prema",
+      "tu",
+      "re"
     ]
   },
   {
@@ -41953,7 +42564,8 @@ window.WORDS_EASY = [
     "phonetic": "/suːˈpɪəɹi.ə(ɹ)/",
     "chinese": "adj. 上级的，较高的；优越的；有优越感的，高傲的 n. 上级， 长官",
     "syllables": [
-      "superior"
+      "su",
+      "perior"
     ]
   },
   {
@@ -42069,7 +42681,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈvɒ.lən.tɹi/",
     "chinese": "adj. 自愿的， 志愿的",
     "syllables": [
-      "volun",
+      "vo",
+      "lun",
       "tary"
     ]
   },
@@ -42145,8 +42758,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɛθ.nɪk/",
     "chinese": "adj. 种族的",
     "syllables": [
-      "eth",
-      "nic"
+      "et",
+      "hnic"
     ]
   },
   {
@@ -42181,8 +42794,8 @@ window.WORDS_EASY = [
     "phonetic": "/kən.ˈkluːd/",
     "chinese": "vi. 结束， 终了 vt. 推断出，推论出；缔结，议定",
     "syllables": [
-      "con",
-      "clude"
+      "conclu",
+      "de"
     ]
   },
   {
@@ -42233,7 +42846,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfæb.ɹɪk/",
     "chinese": "n. 织物， 纺织品； 结构",
     "syllables": [
-      "fabric"
+      "fab",
+      "ric"
     ]
   },
   {
@@ -42315,8 +42929,8 @@ window.WORDS_EASY = [
     "phonetic": "/oʊ.vɚˈhɪɚ/",
     "chinese": "vt. 无意中听到， 偷听到",
     "syllables": [
-      "over",
-      "hear"
+      "o",
+      "verhear"
     ]
   },
   {
@@ -42415,7 +43029,8 @@ window.WORDS_EASY = [
     "chinese": "adj. 明智的， 合情理的",
     "syllables": [
       "sen",
-      "sible"
+      "sib",
+      "le"
     ]
   },
   {
@@ -42440,8 +43055,9 @@ window.WORDS_EASY = [
     "phonetic": "/ɪnˈhæ.bɪ.tənt/",
     "chinese": "n. 居民， 住户",
     "syllables": [
-      "in",
-      "habitant"
+      "inha",
+      "bi",
+      "tant"
     ]
   },
   {
@@ -42474,8 +43090,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmæs.ɪv/",
     "chinese": "adj. 大的， 大而重的； 大块的； 大量的， 大规模的",
     "syllables": [
-      "mas",
-      "sive"
+      "massi",
+      "ve"
     ]
   },
   {
@@ -42492,8 +43108,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɪŋ.ɡəl/",
     "chinese": "vi. 混合起来， 相混合； 相交往， 相往来 vt. 使混合，使相混",
     "syllables": [
-      "ming",
-      "le"
+      "min",
+      "gle"
     ]
   },
   {
@@ -42560,7 +43176,9 @@ window.WORDS_EASY = [
     "phonetic": "/ˈmɪn.ɪ.məm/",
     "chinese": "adj. 最低的， 最小的 n. 最低限度，最小量",
     "syllables": [
-      "minimum"
+      "mi",
+      "ni",
+      "mum"
     ]
   },
   {
@@ -42568,7 +43186,9 @@ window.WORDS_EASY = [
     "phonetic": "/əˈpɒl.ə.dʒi/",
     "chinese": "n. 道歉， 认错， 谢罪",
     "syllables": [
-      "apology"
+      "a",
+      "po",
+      "logy"
     ]
   },
   {
@@ -42626,7 +43246,8 @@ window.WORDS_EASY = [
     "chinese": "n. 推动， 促进， 刺激； 推动力",
     "syllables": [
       "im",
-      "petus"
+      "pe",
+      "tus"
     ]
   },
   {
@@ -42659,8 +43280,8 @@ window.WORDS_EASY = [
     "phonetic": "/kənˈspɪk.ju.əs/",
     "chinese": "adj. 显眼的， 明显的",
     "syllables": [
-      "con",
-      "spicuous"
+      "conspi",
+      "cuous"
     ]
   },
   {
@@ -42685,7 +43306,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈfjʊə.ɹɪəs/",
     "chinese": "adj. 狂怒的， 暴怒的； 强烈的， 激烈的",
     "syllables": [
-      "furious"
+      "fu",
+      "rious"
     ]
   },
   {
@@ -43093,8 +43715,7 @@ window.WORDS_EASY = [
     "phonetic": "/ˈɑɹ.bɪ.tɹɛ(ə).ɹi/",
     "chinese": "adj. 随心所欲的； 专断的",
     "syllables": [
-      "ar",
-      "bitrary"
+      "arbitrary"
     ]
   },
   {
@@ -43111,8 +43732,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈpæs.ɪv/",
     "chinese": "adj. 被动的， 消极的",
     "syllables": [
-      "pas",
-      "sive"
+      "passi",
+      "ve"
     ]
   },
   {
@@ -43163,8 +43784,8 @@ window.WORDS_EASY = [
     "phonetic": "/ˈtʃæl.əndʒ/",
     "chinese": "n. 挑战，邀请比赛；艰巨的任务；怀疑，质问 vt. 反对， 公然反抗； 向…挑战； 对…质疑",
     "syllables": [
-      "chal",
-      "lenge"
+      "challen",
+      "ge"
     ]
   },
   {
